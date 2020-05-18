@@ -1,0 +1,1268 @@
+[
+  {
+    "BeatmapSets": [
+      {
+        "Id": 58951,
+        "Url": "https://osu.ppy.sh/beatmapsets/58951",
+        "Artist": "UNDEAD CORPORATION",
+        "Title": "Yoru Naku Usagi wa Yume o Miru"
+      },
+      {
+        "Id": 624607,
+        "Url": "https://osu.ppy.sh/beatmapsets/624607",
+        "Artist": "UNDEAD CORPORATION",
+        "Title": "Hafuri"
+      },
+      {
+        "Id": 1019827,
+        "Url": "https://osu.ppy.sh/beatmapsets/1019827",
+        "Artist": "UNDEAD CORPORATION",
+        "Title": "Sad Dream"
+      },
+      {
+        "Id": 1020146,
+        "Url": "https://osu.ppy.sh/beatmapsets/1020146",
+        "Artist": "UNDEAD CORPORATION",
+        "Title": "Yume"
+      },
+      {
+        "Id": 1020613,
+        "Url": "https://osu.ppy.sh/beatmapsets/1020613",
+        "Artist": "UNDEAD CORPORATION",
+        "Title": "Datura"
+      },
+      {
+        "Id": 1021829,
+        "Url": "https://osu.ppy.sh/beatmapsets/1021829",
+        "Artist": "UNDEAD CORPORATION",
+        "Title": "Xing Noises"
+      },
+      {
+        "Id": 1023469,
+        "Url": "https://osu.ppy.sh/beatmapsets/1023469",
+        "Artist": "UNDEAD CORPORATION",
+        "Title": "Gleaming"
+      },
+      {
+        "Id": 1058763,
+        "Url": "https://osu.ppy.sh/beatmapsets/1058763",
+        "Artist": "UNDEAD CORPORATION",
+        "Title": "No Filter"
+      },
+      {
+        "Id": 1066545,
+        "Url": "https://osu.ppy.sh/beatmapsets/1066545",
+        "Artist": "UNDEAD CORPORATION",
+        "Title": "Tengai"
+      }
+    ],
+    "Id": 1810,
+    "Name": "UNDEAD CORPORATION Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1810",
+    "CreationDate": "2020-01-16T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 847755,
+        "Url": "https://osu.ppy.sh/beatmapsets/847755",
+        "Artist": "Fractal Dreamers",
+        "Title": "With Every Wanderer&#039;s Breath"
+      },
+      {
+        "Id": 956716,
+        "Url": "https://osu.ppy.sh/beatmapsets/956716",
+        "Artist": "Fractal Dreamers",
+        "Title": "Gardens Under A Spring Sky"
+      },
+      {
+        "Id": 957328,
+        "Url": "https://osu.ppy.sh/beatmapsets/957328",
+        "Artist": "Fractal Dreamers",
+        "Title": "Module_410"
+      },
+      {
+        "Id": 965651,
+        "Url": "https://osu.ppy.sh/beatmapsets/965651",
+        "Artist": "Fractal Dreamers",
+        "Title": "Ad Astra"
+      },
+      {
+        "Id": 982375,
+        "Url": "https://osu.ppy.sh/beatmapsets/982375",
+        "Artist": "Fractal Dreamers",
+        "Title": "Monolithia"
+      },
+      {
+        "Id": 986376,
+        "Url": "https://osu.ppy.sh/beatmapsets/986376",
+        "Artist": "Fractal Dreamers",
+        "Title": "Scarlet Night"
+      }
+    ],
+    "Id": 1809,
+    "Name": "Fractal Dreamers Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1809",
+    "CreationDate": "2020-01-16T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 360680,
+        "Url": "https://osu.ppy.sh/beatmapsets/360680",
+        "Artist": "cYsmix",
+        "Title": "House With Legs"
+      },
+      {
+        "Id": 360950,
+        "Url": "https://osu.ppy.sh/beatmapsets/360950",
+        "Artist": "cYsmix",
+        "Title": "Dovregubben&#039;s Hall"
+      },
+      {
+        "Id": 361214,
+        "Url": "https://osu.ppy.sh/beatmapsets/361214",
+        "Artist": "cYsmix",
+        "Title": "Manic"
+      },
+      {
+        "Id": 489524,
+        "Url": "https://osu.ppy.sh/beatmapsets/489524",
+        "Artist": "cYsmix",
+        "Title": "Moonlight Sonata"
+      },
+      {
+        "Id": 601840,
+        "Url": "https://osu.ppy.sh/beatmapsets/601840",
+        "Artist": "cYsmix",
+        "Title": "Arcade Busters"
+      },
+      {
+        "Id": 791667,
+        "Url": "https://osu.ppy.sh/beatmapsets/791667",
+        "Artist": "cYsmix",
+        "Title": "Babaroque (Short Ver.)"
+      },
+      {
+        "Id": 791798,
+        "Url": "https://osu.ppy.sh/beatmapsets/791798",
+        "Artist": "cYsmix",
+        "Title": "Behind the Walls"
+      },
+      {
+        "Id": 791845,
+        "Url": "https://osu.ppy.sh/beatmapsets/791845",
+        "Artist": "cYsmix",
+        "Title": "Little Knight"
+      },
+      {
+        "Id": 792241,
+        "Url": "https://osu.ppy.sh/beatmapsets/792241",
+        "Artist": "cYsmix",
+        "Title": "Eden"
+      },
+      {
+        "Id": 792396,
+        "Url": "https://osu.ppy.sh/beatmapsets/792396",
+        "Artist": "cYsmix",
+        "Title": "The Ballad of a Mindless Girl"
+      },
+      {
+        "Id": 880487,
+        "Url": "https://osu.ppy.sh/beatmapsets/880487",
+        "Artist": "cYsmix",
+        "Title": "Peer Gynt"
+      },
+      {
+        "Id": 948523,
+        "Url": "https://osu.ppy.sh/beatmapsets/948523",
+        "Artist": "cYsmix",
+        "Title": "Breeze"
+      }
+    ],
+    "Id": 1808,
+    "Name": "cYsmix Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1808",
+    "CreationDate": "2020-01-16T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 965319,
+        "Url": "https://osu.ppy.sh/beatmapsets/965319",
+        "Artist": "Creo",
+        "Title": "Glome"
+      },
+      {
+        "Id": 965558,
+        "Url": "https://osu.ppy.sh/beatmapsets/965558",
+        "Artist": "Creo",
+        "Title": "In Circles"
+      },
+      {
+        "Id": 966240,
+        "Url": "https://osu.ppy.sh/beatmapsets/966240",
+        "Artist": "Creo",
+        "Title": "Challenger"
+      },
+      {
+        "Id": 1012878,
+        "Url": "https://osu.ppy.sh/beatmapsets/1012878",
+        "Artist": "Creo",
+        "Title": "Rivals"
+      },
+      {
+        "Id": 1015289,
+        "Url": "https://osu.ppy.sh/beatmapsets/1015289",
+        "Artist": "Creo",
+        "Title": "Nautilus"
+      },
+      {
+        "Id": 1020213,
+        "Url": "https://osu.ppy.sh/beatmapsets/1020213",
+        "Artist": "Creo",
+        "Title": "Idolize"
+      },
+      {
+        "Id": 1051126,
+        "Url": "https://osu.ppy.sh/beatmapsets/1051126",
+        "Artist": "Creo",
+        "Title": "Shape of the Sun"
+      }
+    ],
+    "Id": 1807,
+    "Name": "Creo Pack (osu!, osu!catch)",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1807",
+    "CreationDate": "2020-01-16T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 755188,
+        "Url": "https://osu.ppy.sh/beatmapsets/755188",
+        "Artist": "Wisp X",
+        "Title": "Mint"
+      },
+      {
+        "Id": 871914,
+        "Url": "https://osu.ppy.sh/beatmapsets/871914",
+        "Artist": "Wisp X",
+        "Title": "Frozen Leaves"
+      },
+      {
+        "Id": 883088,
+        "Url": "https://osu.ppy.sh/beatmapsets/883088",
+        "Artist": "Wisp X",
+        "Title": "Somewhere I&#039;d Rather Be"
+      },
+      {
+        "Id": 935984,
+        "Url": "https://osu.ppy.sh/beatmapsets/935984",
+        "Artist": "Wisp X",
+        "Title": "Forever"
+      },
+      {
+        "Id": 970646,
+        "Url": "https://osu.ppy.sh/beatmapsets/970646",
+        "Artist": "Wisp X",
+        "Title": "Wander"
+      },
+      {
+        "Id": 1032163,
+        "Url": "https://osu.ppy.sh/beatmapsets/1032163",
+        "Artist": "Wisp X",
+        "Title": "Crimson feat. Hatsune Miku (Radio Edit)"
+      },
+      {
+        "Id": 1033247,
+        "Url": "https://osu.ppy.sh/beatmapsets/1033247",
+        "Artist": "Wisp X",
+        "Title": "Melon Soda"
+      },
+      {
+        "Id": 1040161,
+        "Url": "https://osu.ppy.sh/beatmapsets/1040161",
+        "Artist": "Wisp X",
+        "Title": "Hibiscus"
+      }
+    ],
+    "Id": 1806,
+    "Name": "Wisp X Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1806",
+    "CreationDate": "2020-01-16T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 1001546,
+        "Url": "https://osu.ppy.sh/beatmapsets/1001546",
+        "Artist": "Carpool Tunnel",
+        "Title": "Afterlight"
+      },
+      {
+        "Id": 1033405,
+        "Url": "https://osu.ppy.sh/beatmapsets/1033405",
+        "Artist": "Carpool Tunnel",
+        "Title": "San Francisco"
+      },
+      {
+        "Id": 1036382,
+        "Url": "https://osu.ppy.sh/beatmapsets/1036382",
+        "Artist": "Carpool Tunnel",
+        "Title": "Parade"
+      },
+      {
+        "Id": 1036890,
+        "Url": "https://osu.ppy.sh/beatmapsets/1036890",
+        "Artist": "Carpool Tunnel",
+        "Title": "Afterlight"
+      },
+      {
+        "Id": 1050185,
+        "Url": "https://osu.ppy.sh/beatmapsets/1050185",
+        "Artist": "Carpool Tunnel",
+        "Title": "Hooked Again"
+      },
+      {
+        "Id": 1050477,
+        "Url": "https://osu.ppy.sh/beatmapsets/1050477",
+        "Artist": "Carpool Tunnel",
+        "Title": "Better Now"
+      },
+      {
+        "Id": 1052846,
+        "Url": "https://osu.ppy.sh/beatmapsets/1052846",
+        "Artist": "Carpool Tunnel",
+        "Title": "Impressions"
+      },
+      {
+        "Id": 1058934,
+        "Url": "https://osu.ppy.sh/beatmapsets/1058934",
+        "Artist": "Carpool Tunnel",
+        "Title": "Parade"
+      }
+    ],
+    "Id": 1805,
+    "Name": "Carpool Tunnel Pack (osu!, osu!catch)",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1805",
+    "CreationDate": "2020-01-16T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 933700,
+        "Url": "https://osu.ppy.sh/beatmapsets/933700",
+        "Artist": "onumi",
+        "Title": "CONFUSION PART ONE"
+      },
+      {
+        "Id": 933984,
+        "Url": "https://osu.ppy.sh/beatmapsets/933984",
+        "Artist": "onumi",
+        "Title": "PERSONALITY"
+      },
+      {
+        "Id": 934785,
+        "Url": "https://osu.ppy.sh/beatmapsets/934785",
+        "Artist": "onumi",
+        "Title": "FAKE"
+      },
+      {
+        "Id": 936545,
+        "Url": "https://osu.ppy.sh/beatmapsets/936545",
+        "Artist": "onumi",
+        "Title": "REGRET PART ONE"
+      },
+      {
+        "Id": 940377,
+        "Url": "https://osu.ppy.sh/beatmapsets/940377",
+        "Artist": "onumi",
+        "Title": "ARROGANCE"
+      },
+      {
+        "Id": 952393,
+        "Url": "https://osu.ppy.sh/beatmapsets/952393",
+        "Artist": "onumi",
+        "Title": "NOSTALGIA"
+      },
+      {
+        "Id": 1037665,
+        "Url": "https://osu.ppy.sh/beatmapsets/1037665",
+        "Artist": "onumi",
+        "Title": "CONFUSION PART ONE"
+      },
+      {
+        "Id": 1043754,
+        "Url": "https://osu.ppy.sh/beatmapsets/1043754",
+        "Artist": "onumi",
+        "Title": "DESIRE"
+      }
+    ],
+    "Id": 1804,
+    "Name": "onumi Pack (osu!, osu!catch)",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1804",
+    "CreationDate": "2020-01-16T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 964553,
+        "Url": "https://osu.ppy.sh/beatmapsets/964553",
+        "Artist": "The Flashbulb",
+        "Title": "You Take the World&#039;s Weight Away"
+      },
+      {
+        "Id": 965178,
+        "Url": "https://osu.ppy.sh/beatmapsets/965178",
+        "Artist": "The Flashbulb",
+        "Title": "DIDJ PVC"
+      },
+      {
+        "Id": 965730,
+        "Url": "https://osu.ppy.sh/beatmapsets/965730",
+        "Artist": "The Flashbulb",
+        "Title": "Lawn Wake IV (Black)"
+      },
+      {
+        "Id": 966078,
+        "Url": "https://osu.ppy.sh/beatmapsets/966078",
+        "Artist": "The Flashbulb",
+        "Title": "DIDJ PVC"
+      },
+      {
+        "Id": 966087,
+        "Url": "https://osu.ppy.sh/beatmapsets/966087",
+        "Artist": "The Flashbulb",
+        "Title": "Creep"
+      },
+      {
+        "Id": 966225,
+        "Url": "https://osu.ppy.sh/beatmapsets/966225",
+        "Artist": "The Flashbulb",
+        "Title": "Passage D"
+      },
+      {
+        "Id": 966277,
+        "Url": "https://osu.ppy.sh/beatmapsets/966277",
+        "Artist": "The Flashbulb",
+        "Title": "Amen Iraq"
+      },
+      {
+        "Id": 966451,
+        "Url": "https://osu.ppy.sh/beatmapsets/966451",
+        "Artist": "The Flashbulb",
+        "Title": "Six Acid Strings"
+      },
+      {
+        "Id": 973171,
+        "Url": "https://osu.ppy.sh/beatmapsets/973171",
+        "Artist": "The Flashbulb",
+        "Title": "It Never Ends"
+      },
+      {
+        "Id": 977276,
+        "Url": "https://osu.ppy.sh/beatmapsets/977276",
+        "Artist": "The Flashbulb",
+        "Title": "Mellann"
+      },
+      {
+        "Id": 984361,
+        "Url": "https://osu.ppy.sh/beatmapsets/984361",
+        "Artist": "The Flashbulb",
+        "Title": "Ninedump"
+      }
+    ],
+    "Id": 1762,
+    "Name": "The Flashbulb Pack (osu!, osu!taiko, osu!catch)",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1762",
+    "CreationDate": "2019-11-26T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 974872,
+        "Url": "https://osu.ppy.sh/beatmapsets/974872",
+        "Artist": "Rin",
+        "Title": "Amanojaku set 02 ~ Midnight Spell Card"
+      },
+      {
+        "Id": 985478,
+        "Url": "https://osu.ppy.sh/beatmapsets/985478",
+        "Artist": "Rin",
+        "Title": "Chireiden set 05 ~ Walking the Streets of a Former Hell"
+      },
+      {
+        "Id": 985780,
+        "Url": "https://osu.ppy.sh/beatmapsets/985780",
+        "Artist": "Rin",
+        "Title": "Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year"
+      },
+      {
+        "Id": 991960,
+        "Url": "https://osu.ppy.sh/beatmapsets/991960",
+        "Artist": "Rin",
+        "Title": "Koumakan set 02 ~ Apparitions Stalk the Night"
+      },
+      {
+        "Id": 993507,
+        "Url": "https://osu.ppy.sh/beatmapsets/993507",
+        "Artist": "Rin",
+        "Title": "Eientewi set 06 ~ Plain Asia"
+      },
+      {
+        "Id": 996256,
+        "Url": "https://osu.ppy.sh/beatmapsets/996256",
+        "Artist": "Rin",
+        "Title": "Lunatic set 16 ~ The Space Shrine Maiden Returns Home"
+      },
+      {
+        "Id": 1001360,
+        "Url": "https://osu.ppy.sh/beatmapsets/1001360",
+        "Artist": "Rin",
+        "Title": "Ayakashi set 12 Another ~ Border of Life"
+      },
+      {
+        "Id": 1006601,
+        "Url": "https://osu.ppy.sh/beatmapsets/1006601",
+        "Artist": "Rin",
+        "Title": "Koumakan set 16 ~ Kourou"
+      },
+      {
+        "Id": 1013620,
+        "Url": "https://osu.ppy.sh/beatmapsets/1013620",
+        "Artist": "Rin",
+        "Title": "Mythic set ~ Hanahazama no Battlefield"
+      },
+      {
+        "Id": 1014593,
+        "Url": "https://osu.ppy.sh/beatmapsets/1014593",
+        "Artist": "Rin",
+        "Title": "Eientewi set 15 ~ Evening Primrose"
+      },
+      {
+        "Id": 1019506,
+        "Url": "https://osu.ppy.sh/beatmapsets/1019506",
+        "Artist": "Rin",
+        "Title": "Kishinjou set 10 ~ Reverse Ideology"
+      },
+      {
+        "Id": 1022069,
+        "Url": "https://osu.ppy.sh/beatmapsets/1022069",
+        "Artist": "Rin",
+        "Title": "Eientewi set 14 ~ Another"
+      },
+      {
+        "Id": 1022358,
+        "Url": "https://osu.ppy.sh/beatmapsets/1022358",
+        "Artist": "Rin",
+        "Title": "Amanojaku set 03 ~ Romantic Escape Flight"
+      }
+    ],
+    "Id": 1759,
+    "Name": "Rin Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1759",
+    "CreationDate": "2019-11-20T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 1008600,
+        "Url": "https://osu.ppy.sh/beatmapsets/1008600",
+        "Artist": "LukHash",
+        "Title": "WHEN AN ANGEL DIES"
+      },
+      {
+        "Id": 1031580,
+        "Url": "https://osu.ppy.sh/beatmapsets/1031580",
+        "Artist": "LukHash",
+        "Title": "DIGITAL HEART"
+      },
+      {
+        "Id": 1031588,
+        "Url": "https://osu.ppy.sh/beatmapsets/1031588",
+        "Artist": "LukHash",
+        "Title": "WTF?"
+      },
+      {
+        "Id": 1031668,
+        "Url": "https://osu.ppy.sh/beatmapsets/1031668",
+        "Artist": "LukHash",
+        "Title": "WINTER ERROR"
+      },
+      {
+        "Id": 1032103,
+        "Url": "https://osu.ppy.sh/beatmapsets/1032103",
+        "Artist": "LukHash",
+        "Title": "H8 U"
+      },
+      {
+        "Id": 1040733,
+        "Url": "https://osu.ppy.sh/beatmapsets/1040733",
+        "Artist": "LukHash",
+        "Title": "SOCIAL PHOBIA"
+      },
+      {
+        "Id": 1042550,
+        "Url": "https://osu.ppy.sh/beatmapsets/1042550",
+        "Artist": "LukHash",
+        "Title": "Ghosts"
+      },
+      {
+        "Id": 1045131,
+        "Url": "https://osu.ppy.sh/beatmapsets/1045131",
+        "Artist": "LukHash",
+        "Title": "8BIT FAIRY TALE"
+      }
+    ],
+    "Id": 1758,
+    "Name": "LukHash Pack (osu!catch)",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1758",
+    "CreationDate": "2019-11-20T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 609569,
+        "Url": "https://osu.ppy.sh/beatmapsets/609569",
+        "Artist": "*namirin",
+        "Title": "Hitokoto no Kyori"
+      },
+      {
+        "Id": 670579,
+        "Url": "https://osu.ppy.sh/beatmapsets/670579",
+        "Artist": "*namirin",
+        "Title": "closing eyes"
+      },
+      {
+        "Id": 901091,
+        "Url": "https://osu.ppy.sh/beatmapsets/901091",
+        "Artist": "*namirin",
+        "Title": "Ciel etoile"
+      },
+      {
+        "Id": 902745,
+        "Url": "https://osu.ppy.sh/beatmapsets/902745",
+        "Artist": "*namirin",
+        "Title": "Iscariot no Sakebi"
+      },
+      {
+        "Id": 906565,
+        "Url": "https://osu.ppy.sh/beatmapsets/906565",
+        "Artist": "*namirin",
+        "Title": "Omajinai"
+      },
+      {
+        "Id": 916990,
+        "Url": "https://osu.ppy.sh/beatmapsets/916990",
+        "Artist": "*namirin",
+        "Title": "Koishiteiku Planet"
+      },
+      {
+        "Id": 954272,
+        "Url": "https://osu.ppy.sh/beatmapsets/954272",
+        "Artist": "*namirin",
+        "Title": "Kanzen Shouri*Esper Girl"
+      },
+      {
+        "Id": 971432,
+        "Url": "https://osu.ppy.sh/beatmapsets/971432",
+        "Artist": "*namirin",
+        "Title": "Irodori Sora"
+      },
+      {
+        "Id": 981616,
+        "Url": "https://osu.ppy.sh/beatmapsets/981616",
+        "Artist": "*namirin",
+        "Title": "Mizutamari Tobikoete (with Nanahira)"
+      }
+    ],
+    "Id": 1704,
+    "Name": "*namirin Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1704",
+    "CreationDate": "2019-11-19T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 482382,
+        "Url": "https://osu.ppy.sh/beatmapsets/482382",
+        "Artist": "Imperial Circus Dead Decadence",
+        "Title": "Shinbatsu o Tadori Kyoukotsu ni Itaru"
+      },
+      {
+        "Id": 742961,
+        "Url": "https://osu.ppy.sh/beatmapsets/742961",
+        "Artist": "Imperial Circus Dead Decadence",
+        "Title": "Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo."
+      },
+      {
+        "Id": 961431,
+        "Url": "https://osu.ppy.sh/beatmapsets/961431",
+        "Artist": "Imperial Circus Dead Decadence",
+        "Title": "Danzai No Honoo To Koibito-Tachi No Rondo"
+      },
+      {
+        "Id": 962562,
+        "Url": "https://osu.ppy.sh/beatmapsets/962562",
+        "Artist": "Imperial Circus Dead Decadence",
+        "Title": "Uta"
+      },
+      {
+        "Id": 964134,
+        "Url": "https://osu.ppy.sh/beatmapsets/964134",
+        "Artist": "Imperial Circus Dead Decadence",
+        "Title": "Tinu rareta Syuren Ni Fukeru Homura"
+      },
+      {
+        "Id": 964680,
+        "Url": "https://osu.ppy.sh/beatmapsets/964680",
+        "Artist": "Imperial Circus Dead Decadence",
+        "Title": "Syakunetsu No Rengoku Ni Bara Wa..."
+      },
+      {
+        "Id": 967766,
+        "Url": "https://osu.ppy.sh/beatmapsets/967766",
+        "Artist": "Imperial Circus Dead Decadence",
+        "Title": "Ankoku no Jyoukaku ni Shinkou Saru Igyou no Kyouki"
+      }
+    ],
+    "Id": 1688,
+    "Name": "Imperial Circus Dead Decadence Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1688",
+    "CreationDate": "2019-07-08T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 933940,
+        "Url": "https://osu.ppy.sh/beatmapsets/933940",
+        "Artist": "Ben Briggs",
+        "Title": "Yes (Maybe)"
+      },
+      {
+        "Id": 934415,
+        "Url": "https://osu.ppy.sh/beatmapsets/934415",
+        "Artist": "Ben Briggs",
+        "Title": "Fearless Living"
+      },
+      {
+        "Id": 934627,
+        "Url": "https://osu.ppy.sh/beatmapsets/934627",
+        "Artist": "Ben Briggs",
+        "Title": "New Game Plus"
+      },
+      {
+        "Id": 934666,
+        "Url": "https://osu.ppy.sh/beatmapsets/934666",
+        "Artist": "Ben Briggs",
+        "Title": "Wave Island"
+      },
+      {
+        "Id": 948165,
+        "Url": "https://osu.ppy.sh/beatmapsets/948165",
+        "Artist": "Ben Briggs",
+        "Title": "Methods"
+      },
+      {
+        "Id": 948868,
+        "Url": "https://osu.ppy.sh/beatmapsets/948868",
+        "Artist": "Ben Briggs",
+        "Title": "Selecting Continue"
+      },
+      {
+        "Id": 952380,
+        "Url": "https://osu.ppy.sh/beatmapsets/952380",
+        "Artist": "Ben Briggs",
+        "Title": "Why Are We Yelling"
+      }
+    ],
+    "Id": 1687,
+    "Name": "Ben Briggs Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1687",
+    "CreationDate": "2019-07-08T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 929284,
+        "Url": "https://osu.ppy.sh/beatmapsets/929284",
+        "Artist": "tieff",
+        "Title": "Sense of Nostalgia"
+      },
+      {
+        "Id": 938370,
+        "Url": "https://osu.ppy.sh/beatmapsets/938370",
+        "Artist": "tieff",
+        "Title": "Waterflow"
+      },
+      {
+        "Id": 940597,
+        "Url": "https://osu.ppy.sh/beatmapsets/940597",
+        "Artist": "tieff",
+        "Title": "Take Your Swimsuit"
+      },
+      {
+        "Id": 941085,
+        "Url": "https://osu.ppy.sh/beatmapsets/941085",
+        "Artist": "tieff",
+        "Title": "Our Story"
+      },
+      {
+        "Id": 949297,
+        "Url": "https://osu.ppy.sh/beatmapsets/949297",
+        "Artist": "tieff",
+        "Title": "Sunflower"
+      },
+      {
+        "Id": 958299,
+        "Url": "https://osu.ppy.sh/beatmapsets/958299",
+        "Artist": "tieff",
+        "Title": "By Holding You Close I&#039;m Pushing You Further"
+      }
+    ],
+    "Id": 1649,
+    "Name": "tieff Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1649",
+    "CreationDate": "2019-05-08T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 891333,
+        "Url": "https://osu.ppy.sh/beatmapsets/891333",
+        "Artist": "HyuN",
+        "Title": "White Aura"
+      },
+      {
+        "Id": 891334,
+        "Url": "https://osu.ppy.sh/beatmapsets/891334",
+        "Artist": "HyuN",
+        "Title": "Wild Card"
+      },
+      {
+        "Id": 891335,
+        "Url": "https://osu.ppy.sh/beatmapsets/891335",
+        "Artist": "HyuN feat. JeeE",
+        "Title": "Fallen Angel"
+      },
+      {
+        "Id": 891337,
+        "Url": "https://osu.ppy.sh/beatmapsets/891337",
+        "Artist": "HyuN feat. LyuU",
+        "Title": "Cross Over"
+      },
+      {
+        "Id": 891338,
+        "Url": "https://osu.ppy.sh/beatmapsets/891338",
+        "Artist": "HyuN &amp; Ritoru",
+        "Title": "Apocalypse in Love"
+      },
+      {
+        "Id": 891339,
+        "Url": "https://osu.ppy.sh/beatmapsets/891339",
+        "Artist": "HyuN feat. Ato",
+        "Title": "Asu wa Ame ga Yamukara"
+      },
+      {
+        "Id": 891345,
+        "Url": "https://osu.ppy.sh/beatmapsets/891345",
+        "Artist": "HyuN",
+        "Title": "Infinity Heaven"
+      },
+      {
+        "Id": 891348,
+        "Url": "https://osu.ppy.sh/beatmapsets/891348",
+        "Artist": "HyuN",
+        "Title": "Guitian"
+      },
+      {
+        "Id": 891356,
+        "Url": "https://osu.ppy.sh/beatmapsets/891356",
+        "Artist": "HyuN",
+        "Title": "Legend of Genesis"
+      },
+      {
+        "Id": 891366,
+        "Url": "https://osu.ppy.sh/beatmapsets/891366",
+        "Artist": "HyuN",
+        "Title": "Illusion of Inflict"
+      },
+      {
+        "Id": 891417,
+        "Url": "https://osu.ppy.sh/beatmapsets/891417",
+        "Artist": "HyuN feat. Yu-A",
+        "Title": "My life is for you"
+      },
+      {
+        "Id": 891441,
+        "Url": "https://osu.ppy.sh/beatmapsets/891441",
+        "Artist": "HyuN",
+        "Title": "You&#039;Re aRleAdY dEAd"
+      },
+      {
+        "Id": 891632,
+        "Url": "https://osu.ppy.sh/beatmapsets/891632",
+        "Artist": "HyuN feat. YURI",
+        "Title": "Disorder"
+      }
+    ],
+    "Id": 1581,
+    "Name": "HyuN Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1581",
+    "CreationDate": "2019-02-04T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 653523,
+        "Url": "https://osu.ppy.sh/beatmapsets/653523",
+        "Artist": "Poppin&#039;Party",
+        "Title": "Natsu no Don!"
+      },
+      {
+        "Id": 762466,
+        "Url": "https://osu.ppy.sh/beatmapsets/762466",
+        "Artist": "Hello, Happy World!",
+        "Title": "Silhouette"
+      },
+      {
+        "Id": 765565,
+        "Url": "https://osu.ppy.sh/beatmapsets/765565",
+        "Artist": "Poppin&#039;Party",
+        "Title": "Senbonzakura"
+      },
+      {
+        "Id": 781033,
+        "Url": "https://osu.ppy.sh/beatmapsets/781033",
+        "Artist": "Poppin&#039;Party",
+        "Title": "Melancholic"
+      },
+      {
+        "Id": 785222,
+        "Url": "https://osu.ppy.sh/beatmapsets/785222",
+        "Artist": "Pastel*Palettes",
+        "Title": "Shuwarin*Drea~ming"
+      },
+      {
+        "Id": 790041,
+        "Url": "https://osu.ppy.sh/beatmapsets/790041",
+        "Artist": "Roselia",
+        "Title": "Six Trillion Years and Overnight Story"
+      },
+      {
+        "Id": 792819,
+        "Url": "https://osu.ppy.sh/beatmapsets/792819",
+        "Artist": "Afterglow",
+        "Title": "READY STEADY GO (game size ver.)"
+      },
+      {
+        "Id": 809023,
+        "Url": "https://osu.ppy.sh/beatmapsets/809023",
+        "Artist": "Aimi, Sakura Ayane, Maeshima Ami, Aiba Aina, Itou Miku",
+        "Title": "Picotto! Papitto!! GARUPA*PICO!!! (TV Size)"
+      },
+      {
+        "Id": 899954,
+        "Url": "https://osu.ppy.sh/beatmapsets/899954",
+        "Artist": "Poppin&#039;Party",
+        "Title": "KIZUNA MUSIC (TV Size)"
+      },
+      {
+        "Id": 899955,
+        "Url": "https://osu.ppy.sh/beatmapsets/899955",
+        "Artist": "Roselia",
+        "Title": "BRAVE JEWEL (TV Size)"
+      }
+    ],
+    "Id": 1561,
+    "Name": "BanG Dream! Pack, Volume 2",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1561",
+    "CreationDate": "2019-01-15T00:00:00",
+    "Author": "Nathanael"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 847776,
+        "Url": "https://osu.ppy.sh/beatmapsets/847776",
+        "Artist": "Culprate &amp; Joe Ford",
+        "Title": "Gaucho"
+      },
+      {
+        "Id": 847996,
+        "Url": "https://osu.ppy.sh/beatmapsets/847996",
+        "Artist": "Culprate",
+        "Title": "Relucent feat. ZES"
+      },
+      {
+        "Id": 848003,
+        "Url": "https://osu.ppy.sh/beatmapsets/848003",
+        "Artist": "Culprate",
+        "Title": "Aurora"
+      },
+      {
+        "Id": 848259,
+        "Url": "https://osu.ppy.sh/beatmapsets/848259",
+        "Artist": "Culprate &amp; Skorpion",
+        "Title": "Jester"
+      },
+      {
+        "Id": 848837,
+        "Url": "https://osu.ppy.sh/beatmapsets/848837",
+        "Artist": "Culprate",
+        "Title": "Whispers (Part II)"
+      },
+      {
+        "Id": 851543,
+        "Url": "https://osu.ppy.sh/beatmapsets/851543",
+        "Artist": "Culprate",
+        "Title": "Florn"
+      }
+    ],
+    "Id": 1535,
+    "Name": "Culprate Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1535",
+    "CreationDate": "2018-11-20T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 789374,
+        "Url": "https://osu.ppy.sh/beatmapsets/789374",
+        "Artist": "Pulse",
+        "Title": "LP"
+      },
+      {
+        "Id": 789528,
+        "Url": "https://osu.ppy.sh/beatmapsets/789528",
+        "Artist": "James Portland",
+        "Title": "Sky"
+      },
+      {
+        "Id": 789529,
+        "Url": "https://osu.ppy.sh/beatmapsets/789529",
+        "Artist": "Lexurus",
+        "Title": "Gravity"
+      },
+      {
+        "Id": 789544,
+        "Url": "https://osu.ppy.sh/beatmapsets/789544",
+        "Artist": "Andromedik",
+        "Title": "Invasion"
+      },
+      {
+        "Id": 789905,
+        "Url": "https://osu.ppy.sh/beatmapsets/789905",
+        "Artist": "Gourski x Himmes",
+        "Title": "Silence"
+      },
+      {
+        "Id": 795432,
+        "Url": "https://osu.ppy.sh/beatmapsets/795432",
+        "Artist": "Phonetic",
+        "Title": "Journey"
+      }
+    ],
+    "Id": 1480,
+    "Name": "High Tea Music Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1480",
+    "CreationDate": "2019-10-23T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 292077,
+        "Url": "https://osu.ppy.sh/beatmapsets/292077",
+        "Artist": "Reol",
+        "Title": "Asymmetry"
+      },
+      {
+        "Id": 295225,
+        "Url": "https://osu.ppy.sh/beatmapsets/295225",
+        "Artist": "Reol",
+        "Title": "Plus Danshi ver Reol"
+      },
+      {
+        "Id": 320118,
+        "Url": "https://osu.ppy.sh/beatmapsets/320118",
+        "Artist": "Reol",
+        "Title": "No title"
+      },
+      {
+        "Id": 339335,
+        "Url": "https://osu.ppy.sh/beatmapsets/339335",
+        "Artist": "Reol",
+        "Title": "Streaming Heart"
+      },
+      {
+        "Id": 357544,
+        "Url": "https://osu.ppy.sh/beatmapsets/357544",
+        "Artist": "Reol &amp; nqrse",
+        "Title": "Ooedo Ranvu"
+      },
+      {
+        "Id": 374055,
+        "Url": "https://osu.ppy.sh/beatmapsets/374055",
+        "Artist": "Reol",
+        "Title": "Echo"
+      },
+      {
+        "Id": 388428,
+        "Url": "https://osu.ppy.sh/beatmapsets/388428",
+        "Artist": "Reol",
+        "Title": "Midnight Stroller"
+      },
+      {
+        "Id": 409397,
+        "Url": "https://osu.ppy.sh/beatmapsets/409397",
+        "Artist": "Reol",
+        "Title": "FLASH BACK"
+      },
+      {
+        "Id": 476697,
+        "Url": "https://osu.ppy.sh/beatmapsets/476697",
+        "Artist": "REOL",
+        "Title": "ChiruChiru"
+      },
+      {
+        "Id": 497483,
+        "Url": "https://osu.ppy.sh/beatmapsets/497483",
+        "Artist": "REOL",
+        "Title": "Give me a break Stop now"
+      },
+      {
+        "Id": 522666,
+        "Url": "https://osu.ppy.sh/beatmapsets/522666",
+        "Artist": "REOL",
+        "Title": "Summer Horror Party"
+      },
+      {
+        "Id": 552854,
+        "Url": "https://osu.ppy.sh/beatmapsets/552854",
+        "Artist": "REOL",
+        "Title": "YoiYoi Kokon"
+      },
+      {
+        "Id": 578814,
+        "Url": "https://osu.ppy.sh/beatmapsets/578814",
+        "Artist": "Reol",
+        "Title": "Logic Agent"
+      },
+      {
+        "Id": 661483,
+        "Url": "https://osu.ppy.sh/beatmapsets/661483",
+        "Artist": "Reol",
+        "Title": "MONSTER"
+      },
+      {
+        "Id": 706150,
+        "Url": "https://osu.ppy.sh/beatmapsets/706150",
+        "Artist": "REOL",
+        "Title": "Endless Line"
+      }
+    ],
+    "Id": 1443,
+    "Name": "Reol Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1443",
+    "CreationDate": "2018-06-02T00:00:00",
+    "Author": "Nathanael"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 11219,
+        "Url": "https://osu.ppy.sh/beatmapsets/11219",
+        "Artist": "Cranky",
+        "Title": "EVERGREEN"
+      },
+      {
+        "Id": 18339,
+        "Url": "https://osu.ppy.sh/beatmapsets/18339",
+        "Artist": "Cranky",
+        "Title": "The Five"
+      },
+      {
+        "Id": 31367,
+        "Url": "https://osu.ppy.sh/beatmapsets/31367",
+        "Artist": "cranky",
+        "Title": "R176"
+      },
+      {
+        "Id": 150649,
+        "Url": "https://osu.ppy.sh/beatmapsets/150649",
+        "Artist": "cranky",
+        "Title": "X-Y-Z"
+      },
+      {
+        "Id": 751771,
+        "Url": "https://osu.ppy.sh/beatmapsets/751771",
+        "Artist": "Cranky",
+        "Title": "Hanaarashi"
+      },
+      {
+        "Id": 751772,
+        "Url": "https://osu.ppy.sh/beatmapsets/751772",
+        "Artist": "Cranky",
+        "Title": "Ran"
+      },
+      {
+        "Id": 751773,
+        "Url": "https://osu.ppy.sh/beatmapsets/751773",
+        "Artist": "Cranky",
+        "Title": "Feline, the White..."
+      },
+      {
+        "Id": 751785,
+        "Url": "https://osu.ppy.sh/beatmapsets/751785",
+        "Artist": "Cranky",
+        "Title": "Chandelier - King"
+      },
+      {
+        "Id": 751896,
+        "Url": "https://osu.ppy.sh/beatmapsets/751896",
+        "Artist": "Cranky",
+        "Title": "Rave 2 Rave"
+      },
+      {
+        "Id": 751932,
+        "Url": "https://osu.ppy.sh/beatmapsets/751932",
+        "Artist": "Cranky",
+        "Title": "La fuite des jours"
+      },
+      {
+        "Id": 751972,
+        "Url": "https://osu.ppy.sh/beatmapsets/751972",
+        "Artist": "Cranky",
+        "Title": "CHASER"
+      },
+      {
+        "Id": 752022,
+        "Url": "https://osu.ppy.sh/beatmapsets/752022",
+        "Artist": "Cranky",
+        "Title": "T&amp;J"
+      }
+    ],
+    "Id": 1437,
+    "Name": "Cranky Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1437",
+    "CreationDate": "2018-05-25T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  }
+]
