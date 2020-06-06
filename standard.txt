@@ -1,5 +1,94 @@
 START
 PACK START
+1950
+Beatmap Pack #894
+https://osu.ppy.sh/beatmaps/packs/1950
+05.06.2020 00:00:00
+Stefan
+SETS START
+958999
+https://osu.ppy.sh/beatmapsets/958999
+UNLIMITS
+Haruka Kanata (TV Size)
+982452
+https://osu.ppy.sh/beatmapsets/982452
+Tove Styrke
+Changed My Mind
+995205
+https://osu.ppy.sh/beatmapsets/995205
+Plutian
+Until the Blue Moon Rises
+1013356
+https://osu.ppy.sh/beatmapsets/1013356
+DragonForce
+Three Hammers
+1029440
+https://osu.ppy.sh/beatmapsets/1029440
+BROCKHAMPTON
+NO HALO
+1029620
+https://osu.ppy.sh/beatmapsets/1029620
+Yousei Teikoku
+Shadow Corps
+1053613
+https://osu.ppy.sh/beatmapsets/1053613
+senya
+Sasayaku, Kiekaketa Kouishou ga.
+1061726
+https://osu.ppy.sh/beatmapsets/1061726
+S3RL
+Classic Mash Up 2
+1070901
+https://osu.ppy.sh/beatmapsets/1070901
+Fujifabric
+Golden Time (TV Size)
+1117775
+https://osu.ppy.sh/beatmapsets/1117775
+100 gecs
+ringtone (remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]
+1124880
+https://osu.ppy.sh/beatmapsets/1124880
+Shikata Akiko
+Shinshoku Suru Sekai
+1126301
+https://osu.ppy.sh/beatmapsets/1126301
+Konohana-tei Nakai no Kai
+Haru Urara, Kimi to Sakihokoru
+1130581
+https://osu.ppy.sh/beatmapsets/1130581
+Thank You Scientist
+Mr. Invisible
+1141873
+https://osu.ppy.sh/beatmapsets/1141873
+UVERworld
+CORE PRIDE (TV Size)
+1149708
+https://osu.ppy.sh/beatmapsets/1149708
+Natsuiro Matsuri
+Kokoronashi
+1152703
+https://osu.ppy.sh/beatmapsets/1152703
+Kusano Kayoko
+Saigo no Page wa Hirakazu ni
+1154585
+https://osu.ppy.sh/beatmapsets/1154585
+Parry Gripp
+The Guinea Pig Is In Your Mind
+1159967
+https://osu.ppy.sh/beatmapsets/1159967
+nano.RIPE
+Kamisama
+1167347
+https://osu.ppy.sh/beatmapsets/1167347
+fhana
+Wonder Stella
+1175815
+https://osu.ppy.sh/beatmapsets/1175815
+FELT
+Crumbling
+SETS END
+PACK END
+PACK START
 1949
 Beatmap Pack #893
 https://osu.ppy.sh/beatmaps/packs/1949
@@ -1688,95 +1777,6 @@ I Can Fly In The Universe
 https://osu.ppy.sh/beatmapsets/1118387
 ELECTROCUTICA
 Dependence Intension
-SETS END
-PACK END
-PACK START
-1930
-Beatmap Pack #887
-https://osu.ppy.sh/beatmaps/packs/1930
-08.05.2020 00:00:00
-Stefan
-SETS START
-648540
-https://osu.ppy.sh/beatmapsets/648540
-tofubeats
-CANDYYYLAND feat. LIZ (Pa&#039;s Lam System Remix)
-822996
-https://osu.ppy.sh/beatmapsets/822996
-mokona x Yosuke
-Tsugai Kogarashi
-975284
-https://osu.ppy.sh/beatmapsets/975284
-THE ORAL CIGARETTES
-BLACK MEMORY
-988848
-https://osu.ppy.sh/beatmapsets/988848
-Opeth
-Ghost of Perdition
-995840
-https://osu.ppy.sh/beatmapsets/995840
-Nhato
-Dear Eternity
-1003019
-https://osu.ppy.sh/beatmapsets/1003019
-Hanatan
-Setsuna Imitation
-1050996
-https://osu.ppy.sh/beatmapsets/1050996
-UVERworld
-CORE PRIDE (TV Size)
-1073482
-https://osu.ppy.sh/beatmapsets/1073482
-TRUSTRICK
-Recall THE END (TV Size)
-1081640
-https://osu.ppy.sh/beatmapsets/1081640
-Official HIGE DANdism
-Pretender
-1082123
-https://osu.ppy.sh/beatmapsets/1082123
-RD-Sounds feat. nayuta
-Kinpu &#039;Forbidden Game&#039;
-1090194
-https://osu.ppy.sh/beatmapsets/1090194
-HAG
-Arrow
-1098490
-https://osu.ppy.sh/beatmapsets/1098490
-Fox Stevenson
-Take You Down
-1100394
-https://osu.ppy.sh/beatmapsets/1100394
-SYNC.ART&#039;S
-Yume wa Utsutsu
-1101011
-https://osu.ppy.sh/beatmapsets/1101011
-Teminite &amp; PsoGnar
-Lion&#039;s Den
-1111107
-https://osu.ppy.sh/beatmapsets/1111107
-Ceui
-Stardust Melodia
-1130289
-https://osu.ppy.sh/beatmapsets/1130289
-Meguro Shoji feat. Lyn
-Rivers In the Desert
-1131083
-https://osu.ppy.sh/beatmapsets/1131083
-ELFENSJoN
-Hotarubi
-1138215
-https://osu.ppy.sh/beatmapsets/1138215
-iann dior
-emotions
-1157275
-https://osu.ppy.sh/beatmapsets/1157275
-Rita
-Bookmark Memories
-1159452
-https://osu.ppy.sh/beatmapsets/1159452
-Cornelius Link
-Astronomia (Medieval Style)
 SETS END
 PACK END
 END
