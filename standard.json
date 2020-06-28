@@ -2,6 +2,522 @@
   {
     "BeatmapSets": [
       {
+        "Id": 866848,
+        "Url": "https://osu.ppy.sh/beatmapsets/866848",
+        "Artist": "Okazaki Taiiku",
+        "Title": "Kimi no Bouken (TV Size)"
+      },
+      {
+        "Id": 932214,
+        "Url": "https://osu.ppy.sh/beatmapsets/932214",
+        "Artist": "O2i3",
+        "Title": "Ooi"
+      },
+      {
+        "Id": 949106,
+        "Url": "https://osu.ppy.sh/beatmapsets/949106",
+        "Artist": "Kizuna AI",
+        "Title": "AIAIAI (feat. Nakata Yasutaka)"
+      },
+      {
+        "Id": 985872,
+        "Url": "https://osu.ppy.sh/beatmapsets/985872",
+        "Artist": "Avantasia",
+        "Title": "Starlight (feat. Ronnie Atkins)"
+      },
+      {
+        "Id": 1029946,
+        "Url": "https://osu.ppy.sh/beatmapsets/1029946",
+        "Artist": "Taishi",
+        "Title": "All For The Time"
+      },
+      {
+        "Id": 1061110,
+        "Url": "https://osu.ppy.sh/beatmapsets/1061110",
+        "Artist": "Umeboshi Chazuke vs. Morimori Atsushi",
+        "Title": "Pico*2 Funkoter*"
+      },
+      {
+        "Id": 1088347,
+        "Url": "https://osu.ppy.sh/beatmapsets/1088347",
+        "Artist": "sokoninaru",
+        "Title": "Tenohira de odoru"
+      },
+      {
+        "Id": 1108353,
+        "Url": "https://osu.ppy.sh/beatmapsets/1108353",
+        "Artist": "Kano",
+        "Title": "Hikari no Michishirube (TV Size)"
+      },
+      {
+        "Id": 1113841,
+        "Url": "https://osu.ppy.sh/beatmapsets/1113841",
+        "Artist": "Iris December Uncry (CV: Hanazono Mei), Noel the Nextseason (CV: Ameba Tsukasa)",
+        "Title": "Crying Heart"
+      },
+      {
+        "Id": 1114402,
+        "Url": "https://osu.ppy.sh/beatmapsets/1114402",
+        "Artist": "Frums",
+        "Title": "We Want To Run"
+      },
+      {
+        "Id": 1118461,
+        "Url": "https://osu.ppy.sh/beatmapsets/1118461",
+        "Artist": "Ichigaya Arisa (CV: Itou Ayasa)",
+        "Title": "Su-Suki Nanka Janai!"
+      },
+      {
+        "Id": 1123154,
+        "Url": "https://osu.ppy.sh/beatmapsets/1123154",
+        "Artist": "ARForest",
+        "Title": "Metheus"
+      },
+      {
+        "Id": 1124745,
+        "Url": "https://osu.ppy.sh/beatmapsets/1124745",
+        "Artist": "ginkiha",
+        "Title": "Auxesia"
+      },
+      {
+        "Id": 1129183,
+        "Url": "https://osu.ppy.sh/beatmapsets/1129183",
+        "Artist": "Ichigaya Arisa (CV: Itou Ayasa)",
+        "Title": "Su-Suki Nanka Janai!"
+      },
+      {
+        "Id": 1137583,
+        "Url": "https://osu.ppy.sh/beatmapsets/1137583",
+        "Artist": "O2i3",
+        "Title": "TSLove"
+      },
+      {
+        "Id": 1139247,
+        "Url": "https://osu.ppy.sh/beatmapsets/1139247",
+        "Artist": "O2i3",
+        "Title": "Heart Function"
+      },
+      {
+        "Id": 1145173,
+        "Url": "https://osu.ppy.sh/beatmapsets/1145173",
+        "Artist": "ChouCho",
+        "Title": "Ashita no Kimi sae Ireba Ii. (TV Size)"
+      },
+      {
+        "Id": 1146189,
+        "Url": "https://osu.ppy.sh/beatmapsets/1146189",
+        "Artist": "TrySail",
+        "Title": "Honto da yo"
+      },
+      {
+        "Id": 1149112,
+        "Url": "https://osu.ppy.sh/beatmapsets/1149112",
+        "Artist": "Solarbear",
+        "Title": "Stick Your Ins Out"
+      },
+      {
+        "Id": 1186788,
+        "Url": "https://osu.ppy.sh/beatmapsets/1186788",
+        "Artist": "Machico",
+        "Title": "1 Milli Symphony"
+      }
+    ],
+    "Id": 1965,
+    "Name": "Mania Beatmap Pack #72",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1965",
+    "CreationDate": "2020-06-28T00:00:00",
+    "Author": "Stefan"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 780943,
+        "Url": "https://osu.ppy.sh/beatmapsets/780943",
+        "Artist": "3OH!3",
+        "Title": "R.I.P."
+      },
+      {
+        "Id": 1011380,
+        "Url": "https://osu.ppy.sh/beatmapsets/1011380",
+        "Artist": "Linkin Park",
+        "Title": "Forgotten"
+      },
+      {
+        "Id": 1043944,
+        "Url": "https://osu.ppy.sh/beatmapsets/1043944",
+        "Artist": "Bob Sinclar feat. Steve Edwards",
+        "Title": "World, Hold On"
+      },
+      {
+        "Id": 1053084,
+        "Url": "https://osu.ppy.sh/beatmapsets/1053084",
+        "Artist": "Sawai Miku",
+        "Title": "Colorful. (kamaboko remix)"
+      },
+      {
+        "Id": 1096374,
+        "Url": "https://osu.ppy.sh/beatmapsets/1096374",
+        "Artist": "solfa feat. Shimotsuki Haruka + Chata + Katakiri Rekka",
+        "Title": "go ahead!"
+      },
+      {
+        "Id": 1102397,
+        "Url": "https://osu.ppy.sh/beatmapsets/1102397",
+        "Artist": "Blue Marble &amp; Gennady Tkachenko-Papizh",
+        "Title": "Genesis"
+      },
+      {
+        "Id": 1107860,
+        "Url": "https://osu.ppy.sh/beatmapsets/1107860",
+        "Artist": "Uematsu Nobuo",
+        "Title": "Kaitei Shinden"
+      },
+      {
+        "Id": 1112435,
+        "Url": "https://osu.ppy.sh/beatmapsets/1112435",
+        "Artist": "Kurokotei",
+        "Title": "Into The Void"
+      },
+      {
+        "Id": 1123670,
+        "Url": "https://osu.ppy.sh/beatmapsets/1123670",
+        "Artist": "Aura Qualic feat. Hatsune Miku",
+        "Title": "Sweet Cat Dreaming"
+      },
+      {
+        "Id": 1147278,
+        "Url": "https://osu.ppy.sh/beatmapsets/1147278",
+        "Artist": "Aoi Eir",
+        "Title": "JUMP!!!"
+      },
+      {
+        "Id": 1148518,
+        "Url": "https://osu.ppy.sh/beatmapsets/1148518",
+        "Artist": "Suara",
+        "Title": "Fuantei na Kamisama (TV Size)"
+      },
+      {
+        "Id": 1170997,
+        "Url": "https://osu.ppy.sh/beatmapsets/1170997",
+        "Artist": "bladee &amp; ECCO2K",
+        "Title": "Obedient"
+      },
+      {
+        "Id": 1177290,
+        "Url": "https://osu.ppy.sh/beatmapsets/1177290",
+        "Artist": "WAKABA",
+        "Title": "Ashita, Boku wa Kimi ni Ai ni Yuku."
+      },
+      {
+        "Id": 1177475,
+        "Url": "https://osu.ppy.sh/beatmapsets/1177475",
+        "Artist": "Zekk",
+        "Title": "Ashes"
+      },
+      {
+        "Id": 1180303,
+        "Url": "https://osu.ppy.sh/beatmapsets/1180303",
+        "Artist": "Galileo Galilei",
+        "Title": "Aoi Shiori (TV Size)"
+      },
+      {
+        "Id": 1185829,
+        "Url": "https://osu.ppy.sh/beatmapsets/1185829",
+        "Artist": "plingmin",
+        "Title": "This world is yours (TV Size)"
+      },
+      {
+        "Id": 1187018,
+        "Url": "https://osu.ppy.sh/beatmapsets/1187018",
+        "Artist": "Ceui",
+        "Title": "Sympathia"
+      },
+      {
+        "Id": 1187395,
+        "Url": "https://osu.ppy.sh/beatmapsets/1187395",
+        "Artist": "Aqua Timez",
+        "Title": "Saigo made II (TV Size)"
+      },
+      {
+        "Id": 1188095,
+        "Url": "https://osu.ppy.sh/beatmapsets/1188095",
+        "Artist": "ReoNa",
+        "Title": "Untitled world"
+      },
+      {
+        "Id": 1189933,
+        "Url": "https://osu.ppy.sh/beatmapsets/1189933",
+        "Artist": "Otonashi Diva",
+        "Title": "Zoetrope"
+      }
+    ],
+    "Id": 1964,
+    "Name": "Beatmap Pack #901",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1964",
+    "CreationDate": "2020-06-28T00:00:00",
+    "Author": "Stefan"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 948210,
+        "Url": "https://osu.ppy.sh/beatmapsets/948210",
+        "Artist": "Emarosa",
+        "Title": "Cautious"
+      },
+      {
+        "Id": 979074,
+        "Url": "https://osu.ppy.sh/beatmapsets/979074",
+        "Artist": "HAG",
+        "Title": "Hotaru Annaizu"
+      },
+      {
+        "Id": 1001813,
+        "Url": "https://osu.ppy.sh/beatmapsets/1001813",
+        "Artist": "Numtack05",
+        "Title": "Oshimai da ze!"
+      },
+      {
+        "Id": 1096383,
+        "Url": "https://osu.ppy.sh/beatmapsets/1096383",
+        "Artist": "Doja Cat",
+        "Title": "Say So"
+      },
+      {
+        "Id": 1102078,
+        "Url": "https://osu.ppy.sh/beatmapsets/1102078",
+        "Artist": "Kito Akari",
+        "Title": "Tiny Light (TV Size)"
+      },
+      {
+        "Id": 1128448,
+        "Url": "https://osu.ppy.sh/beatmapsets/1128448",
+        "Artist": "Little Big",
+        "Title": "UNO"
+      },
+      {
+        "Id": 1131498,
+        "Url": "https://osu.ppy.sh/beatmapsets/1131498",
+        "Artist": "D-51",
+        "Title": "BRAND NEW WORLD (TV Size)"
+      },
+      {
+        "Id": 1136149,
+        "Url": "https://osu.ppy.sh/beatmapsets/1136149",
+        "Artist": "LeaF",
+        "Title": "MARENOL"
+      },
+      {
+        "Id": 1146049,
+        "Url": "https://osu.ppy.sh/beatmapsets/1146049",
+        "Artist": "tomppabeats",
+        "Title": "Being in Love with U"
+      },
+      {
+        "Id": 1166409,
+        "Url": "https://osu.ppy.sh/beatmapsets/1166409",
+        "Artist": "Shimotsuki Haruka",
+        "Title": "Tooryanse"
+      },
+      {
+        "Id": 1169856,
+        "Url": "https://osu.ppy.sh/beatmapsets/1169856",
+        "Artist": "PUP",
+        "Title": "Anaphylaxis"
+      },
+      {
+        "Id": 1173774,
+        "Url": "https://osu.ppy.sh/beatmapsets/1173774",
+        "Artist": "Amatsuki",
+        "Title": "Kimi Dake wa."
+      },
+      {
+        "Id": 1176404,
+        "Url": "https://osu.ppy.sh/beatmapsets/1176404",
+        "Artist": "RD-Sounds feat. Meramipop",
+        "Title": "enemy of the society"
+      },
+      {
+        "Id": 1177953,
+        "Url": "https://osu.ppy.sh/beatmapsets/1177953",
+        "Artist": "HIMARI",
+        "Title": "Framboise"
+      },
+      {
+        "Id": 1177969,
+        "Url": "https://osu.ppy.sh/beatmapsets/1177969",
+        "Artist": "Oomori Seiko",
+        "Title": "JUSTadICE (TV Size)"
+      },
+      {
+        "Id": 1178935,
+        "Url": "https://osu.ppy.sh/beatmapsets/1178935",
+        "Artist": "Nogizaka46",
+        "Title": "Yubi Bouenkyou (TV Size)"
+      },
+      {
+        "Id": 1179412,
+        "Url": "https://osu.ppy.sh/beatmapsets/1179412",
+        "Artist": "ReoNa",
+        "Title": "Till the End"
+      },
+      {
+        "Id": 1182043,
+        "Url": "https://osu.ppy.sh/beatmapsets/1182043",
+        "Artist": "Aoi Eir",
+        "Title": "IGNITE (TV Size)"
+      },
+      {
+        "Id": 1182742,
+        "Url": "https://osu.ppy.sh/beatmapsets/1182742",
+        "Artist": "Tomatsu Haruka",
+        "Title": "courage (TV Size)"
+      },
+      {
+        "Id": 1183876,
+        "Url": "https://osu.ppy.sh/beatmapsets/1183876",
+        "Artist": "LiSA",
+        "Title": "crossing field (TV Size)"
+      }
+    ],
+    "Id": 1963,
+    "Name": "Beatmap Pack #900",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1963",
+    "CreationDate": "2020-06-28T00:00:00",
+    "Author": "Stefan"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 854942,
+        "Url": "https://osu.ppy.sh/beatmapsets/854942",
+        "Artist": "tricot",
+        "Title": "POOL"
+      },
+      {
+        "Id": 875916,
+        "Url": "https://osu.ppy.sh/beatmapsets/875916",
+        "Artist": "DJ&#039;TEKINA//SOMETHING",
+        "Title": "Hidamari no Uta"
+      },
+      {
+        "Id": 1013342,
+        "Url": "https://osu.ppy.sh/beatmapsets/1013342",
+        "Artist": "Sasaki Sayaka",
+        "Title": "Sakura, Reincarnation"
+      },
+      {
+        "Id": 1034093,
+        "Url": "https://osu.ppy.sh/beatmapsets/1034093",
+        "Artist": "FRIENDZONE / MAYBE BABY",
+        "Title": "ASKORBINKA"
+      },
+      {
+        "Id": 1079398,
+        "Url": "https://osu.ppy.sh/beatmapsets/1079398",
+        "Artist": "Whispered",
+        "Title": "Kensei"
+      },
+      {
+        "Id": 1111534,
+        "Url": "https://osu.ppy.sh/beatmapsets/1111534",
+        "Artist": "Stan SB",
+        "Title": "Stratosphere"
+      },
+      {
+        "Id": 1112375,
+        "Url": "https://osu.ppy.sh/beatmapsets/1112375",
+        "Artist": "Kurokotei",
+        "Title": "Callback"
+      },
+      {
+        "Id": 1112682,
+        "Url": "https://osu.ppy.sh/beatmapsets/1112682",
+        "Artist": "Sako Tomohisa",
+        "Title": "Getta Banban (TV Size)"
+      },
+      {
+        "Id": 1115216,
+        "Url": "https://osu.ppy.sh/beatmapsets/1115216",
+        "Artist": "FabvL",
+        "Title": "Fortnite Drip"
+      },
+      {
+        "Id": 1116535,
+        "Url": "https://osu.ppy.sh/beatmapsets/1116535",
+        "Artist": "Kurokotei",
+        "Title": "Lusamine in a Perfect World"
+      },
+      {
+        "Id": 1118779,
+        "Url": "https://osu.ppy.sh/beatmapsets/1118779",
+        "Artist": "Kano",
+        "Title": "Houkago Stride"
+      },
+      {
+        "Id": 1130436,
+        "Url": "https://osu.ppy.sh/beatmapsets/1130436",
+        "Artist": "LeaF",
+        "Title": "Poison AND/OR Affection"
+      },
+      {
+        "Id": 1144536,
+        "Url": "https://osu.ppy.sh/beatmapsets/1144536",
+        "Artist": "Sally",
+        "Title": "Utakata"
+      },
+      {
+        "Id": 1166715,
+        "Url": "https://osu.ppy.sh/beatmapsets/1166715",
+        "Artist": "R3 Music Box",
+        "Title": "Ginpatsu no Shounen"
+      },
+      {
+        "Id": 1172488,
+        "Url": "https://osu.ppy.sh/beatmapsets/1172488",
+        "Artist": "steampianist",
+        "Title": "The Scrap Boy Instrumental"
+      },
+      {
+        "Id": 1175337,
+        "Url": "https://osu.ppy.sh/beatmapsets/1175337",
+        "Artist": "Camellia",
+        "Title": "Looking for Edge of Ground"
+      },
+      {
+        "Id": 1181712,
+        "Url": "https://osu.ppy.sh/beatmapsets/1181712",
+        "Artist": "THE ORAL CIGARETTES",
+        "Title": "Fantasy"
+      },
+      {
+        "Id": 1183864,
+        "Url": "https://osu.ppy.sh/beatmapsets/1183864",
+        "Artist": "Aoi Eir",
+        "Title": "INNOCENCE (TV Size)"
+      },
+      {
+        "Id": 1186821,
+        "Url": "https://osu.ppy.sh/beatmapsets/1186821",
+        "Artist": "Falcom Sound Team jdk feat. Sasaka Megumi &amp; Suehiro Yuuri",
+        "Title": "Eien no Tabibito"
+      },
+      {
+        "Id": 1190710,
+        "Url": "https://osu.ppy.sh/beatmapsets/1190710",
+        "Artist": "Suzuki Konomi",
+        "Title": "Realize (TV Size)"
+      }
+    ],
+    "Id": 1962,
+    "Name": "Beatmap Pack #899",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/1962",
+    "CreationDate": "2020-06-28T00:00:00",
+    "Author": "Stefan"
+  },
+  {
+    "BeatmapSets": [
+      {
         "Id": 538857,
         "Url": "https://osu.ppy.sh/beatmapsets/538857",
         "Artist": "ClariS x GARNiDELiA",
@@ -2037,522 +2553,6 @@
     "Name": "Beatmap Pack #890",
     "Url": "https://osu.ppy.sh/beatmaps/packs/1946",
     "CreationDate": "2020-05-23T00:00:00",
-    "Author": "Stefan"
-  },
-  {
-    "BeatmapSets": [
-      {
-        "Id": 364724,
-        "Url": "https://osu.ppy.sh/beatmapsets/364724",
-        "Artist": "The Flashbulb",
-        "Title": "Lawn Wake II"
-      },
-      {
-        "Id": 734550,
-        "Url": "https://osu.ppy.sh/beatmapsets/734550",
-        "Artist": "goreshit",
-        "Title": "satoko torture techniques"
-      },
-      {
-        "Id": 898340,
-        "Url": "https://osu.ppy.sh/beatmapsets/898340",
-        "Artist": "3R2",
-        "Title": "Bunny Panic!!!"
-      },
-      {
-        "Id": 905000,
-        "Url": "https://osu.ppy.sh/beatmapsets/905000",
-        "Artist": "Moetan Cast",
-        "Title": "Mahou Shoujo Magical-tan! (ETIA. Hardcore Remix)"
-      },
-      {
-        "Id": 985795,
-        "Url": "https://osu.ppy.sh/beatmapsets/985795",
-        "Artist": "Yuizuki Sora",
-        "Title": "Koi, Hitokuchi."
-      },
-      {
-        "Id": 1012123,
-        "Url": "https://osu.ppy.sh/beatmapsets/1012123",
-        "Artist": "Umeboshi Chazuke",
-        "Title": "Galaxy in Toybox"
-      },
-      {
-        "Id": 1031143,
-        "Url": "https://osu.ppy.sh/beatmapsets/1031143",
-        "Artist": "RO-KYU-BU!",
-        "Title": "SHOOT! (TV Size)"
-      },
-      {
-        "Id": 1038855,
-        "Url": "https://osu.ppy.sh/beatmapsets/1038855",
-        "Artist": "sasakure.UK",
-        "Title": "Replica feat. Hatsune Miku"
-      },
-      {
-        "Id": 1059180,
-        "Url": "https://osu.ppy.sh/beatmapsets/1059180",
-        "Artist": "Nero&#039;s Day At Disneyland",
-        "Title": "Child Protective Services Theme Song"
-      },
-      {
-        "Id": 1059478,
-        "Url": "https://osu.ppy.sh/beatmapsets/1059478",
-        "Artist": "Camellia",
-        "Title": "Nacreous Snowmelt"
-      },
-      {
-        "Id": 1076605,
-        "Url": "https://osu.ppy.sh/beatmapsets/1076605",
-        "Artist": "Yooh Remixed by BlackY",
-        "Title": "salvation -from:BLACK-"
-      },
-      {
-        "Id": 1108339,
-        "Url": "https://osu.ppy.sh/beatmapsets/1108339",
-        "Artist": "Kondo Koji",
-        "Title": "Shooting Gallery"
-      },
-      {
-        "Id": 1111978,
-        "Url": "https://osu.ppy.sh/beatmapsets/1111978",
-        "Artist": "CHiCO with HoneyWorks",
-        "Title": "Historia"
-      },
-      {
-        "Id": 1112076,
-        "Url": "https://osu.ppy.sh/beatmapsets/1112076",
-        "Artist": "Yamajet feat. Hiura Masako",
-        "Title": "Sunglow"
-      },
-      {
-        "Id": 1113663,
-        "Url": "https://osu.ppy.sh/beatmapsets/1113663",
-        "Artist": "Kaede To Kyo Aki Chi Kuzu",
-        "Title": "Yankee Boy Yankee Girl"
-      },
-      {
-        "Id": 1117025,
-        "Url": "https://osu.ppy.sh/beatmapsets/1117025",
-        "Artist": "Cattle Decapitation",
-        "Title": "Bring Back the Plague"
-      },
-      {
-        "Id": 1124664,
-        "Url": "https://osu.ppy.sh/beatmapsets/1124664",
-        "Artist": "Toyama Nao",
-        "Title": "Aruite Ikou! (TV Size)"
-      },
-      {
-        "Id": 1128617,
-        "Url": "https://osu.ppy.sh/beatmapsets/1128617",
-        "Artist": "mafumafu",
-        "Title": "I wanna be a girl"
-      },
-      {
-        "Id": 1131123,
-        "Url": "https://osu.ppy.sh/beatmapsets/1131123",
-        "Artist": "Venetian Snares",
-        "Title": "Frictional Nevada"
-      },
-      {
-        "Id": 1152531,
-        "Url": "https://osu.ppy.sh/beatmapsets/1152531",
-        "Artist": "Celldweller",
-        "Title": "I Can&#039;t Wait"
-      }
-    ],
-    "Id": 1945,
-    "Name": "Taiko Beatmap Pack #95",
-    "Url": "https://osu.ppy.sh/beatmaps/packs/1945",
-    "CreationDate": "2020-05-16T00:00:00",
-    "Author": "Stefan"
-  },
-  {
-    "BeatmapSets": [
-      {
-        "Id": 723975,
-        "Url": "https://osu.ppy.sh/beatmapsets/723975",
-        "Artist": "aran &amp; t+pazolite",
-        "Title": "Chobit Flavor"
-      },
-      {
-        "Id": 883881,
-        "Url": "https://osu.ppy.sh/beatmapsets/883881",
-        "Artist": "LiLA&#039;c Records",
-        "Title": "MONOCHROME SKY"
-      },
-      {
-        "Id": 1057855,
-        "Url": "https://osu.ppy.sh/beatmapsets/1057855",
-        "Artist": "sakuraburst",
-        "Title": "sha"
-      },
-      {
-        "Id": 1080892,
-        "Url": "https://osu.ppy.sh/beatmapsets/1080892",
-        "Artist": "Fractal Dreamers",
-        "Title": "Gardens Under A Spring Sky"
-      },
-      {
-        "Id": 1081573,
-        "Url": "https://osu.ppy.sh/beatmapsets/1081573",
-        "Artist": "Juliet Persia (CV: Kayano Ai)",
-        "Title": "Hush, Little Baby - Persia"
-      },
-      {
-        "Id": 1090980,
-        "Url": "https://osu.ppy.sh/beatmapsets/1090980",
-        "Artist": "Nhato",
-        "Title": "Hell&#039;s Sun"
-      },
-      {
-        "Id": 1105381,
-        "Url": "https://osu.ppy.sh/beatmapsets/1105381",
-        "Artist": "saradisk",
-        "Title": "168 - 401"
-      },
-      {
-        "Id": 1122098,
-        "Url": "https://osu.ppy.sh/beatmapsets/1122098",
-        "Artist": "Kurosaki Maon",
-        "Title": "Last Desire (TV Size)"
-      },
-      {
-        "Id": 1129114,
-        "Url": "https://osu.ppy.sh/beatmapsets/1129114",
-        "Artist": "Joji",
-        "Title": "Sanctuary"
-      },
-      {
-        "Id": 1131661,
-        "Url": "https://osu.ppy.sh/beatmapsets/1131661",
-        "Artist": "ginkiha",
-        "Title": "EOS"
-      },
-      {
-        "Id": 1132794,
-        "Url": "https://osu.ppy.sh/beatmapsets/1132794",
-        "Artist": "nao",
-        "Title": "Taiyou Paradise"
-      },
-      {
-        "Id": 1136905,
-        "Url": "https://osu.ppy.sh/beatmapsets/1136905",
-        "Artist": "Lindsey Stirling",
-        "Title": "Senbonzakura"
-      },
-      {
-        "Id": 1143253,
-        "Url": "https://osu.ppy.sh/beatmapsets/1143253",
-        "Artist": "Zekk",
-        "Title": "Feelsleft0ut"
-      },
-      {
-        "Id": 1143756,
-        "Url": "https://osu.ppy.sh/beatmapsets/1143756",
-        "Artist": "Celldweller",
-        "Title": "Senorita Bonita"
-      },
-      {
-        "Id": 1143928,
-        "Url": "https://osu.ppy.sh/beatmapsets/1143928",
-        "Artist": "meganeko",
-        "Title": "Delete"
-      },
-      {
-        "Id": 1146285,
-        "Url": "https://osu.ppy.sh/beatmapsets/1146285",
-        "Artist": "LiSA",
-        "Title": "Gurenge feat. Un3h [ dj-Jo Remix ] TV Size"
-      },
-      {
-        "Id": 1146734,
-        "Url": "https://osu.ppy.sh/beatmapsets/1146734",
-        "Artist": "Zekk",
-        "Title": "Fallen"
-      },
-      {
-        "Id": 1150487,
-        "Url": "https://osu.ppy.sh/beatmapsets/1150487",
-        "Artist": "Zekk",
-        "Title": "Falling Down feat. Renko x TRIANGLE"
-      },
-      {
-        "Id": 1158282,
-        "Url": "https://osu.ppy.sh/beatmapsets/1158282",
-        "Artist": "Loki",
-        "Title": "A New King Is Born"
-      },
-      {
-        "Id": 1158779,
-        "Url": "https://osu.ppy.sh/beatmapsets/1158779",
-        "Artist": "Camellia feat. Ayakura Mei",
-        "Title": "Integration under the moon of codes"
-      }
-    ],
-    "Id": 1944,
-    "Name": "Taiko Beatmap Pack #94",
-    "Url": "https://osu.ppy.sh/beatmaps/packs/1944",
-    "CreationDate": "2020-05-16T00:00:00",
-    "Author": "Stefan"
-  },
-  {
-    "BeatmapSets": [
-      {
-        "Id": 760072,
-        "Url": "https://osu.ppy.sh/beatmapsets/760072",
-        "Artist": "RUON feat. Meramipop",
-        "Title": "Secret Desire - Dyes Remix -"
-      },
-      {
-        "Id": 785389,
-        "Url": "https://osu.ppy.sh/beatmapsets/785389",
-        "Artist": "Chroma",
-        "Title": "tiny tales continue"
-      },
-      {
-        "Id": 830093,
-        "Url": "https://osu.ppy.sh/beatmapsets/830093",
-        "Artist": "BLANKFIELD",
-        "Title": "Goodbye"
-      },
-      {
-        "Id": 883363,
-        "Url": "https://osu.ppy.sh/beatmapsets/883363",
-        "Artist": "K/DA",
-        "Title": "POP/STARS (feat. Madison Beer, (G)I-DLE, Jaira Burns)"
-      },
-      {
-        "Id": 923008,
-        "Url": "https://osu.ppy.sh/beatmapsets/923008",
-        "Artist": "Meramipop",
-        "Title": "Bad Apple!!"
-      },
-      {
-        "Id": 972634,
-        "Url": "https://osu.ppy.sh/beatmapsets/972634",
-        "Artist": "Verdammt",
-        "Title": "Hitoribocchi no Maou"
-      },
-      {
-        "Id": 1010280,
-        "Url": "https://osu.ppy.sh/beatmapsets/1010280",
-        "Artist": "Kageyama Shota",
-        "Title": "Sentou! Denshousha Higana"
-      },
-      {
-        "Id": 1080398,
-        "Url": "https://osu.ppy.sh/beatmapsets/1080398",
-        "Artist": "u&#039;s",
-        "Title": "SUNNY DAY SONG"
-      },
-      {
-        "Id": 1098377,
-        "Url": "https://osu.ppy.sh/beatmapsets/1098377",
-        "Artist": "aran &amp; t+pazolite",
-        "Title": "Chobit Flavor"
-      },
-      {
-        "Id": 1101909,
-        "Url": "https://osu.ppy.sh/beatmapsets/1101909",
-        "Artist": "*namirin",
-        "Title": "Mizutamari Tobikoete (with Nanahira)"
-      },
-      {
-        "Id": 1115538,
-        "Url": "https://osu.ppy.sh/beatmapsets/1115538",
-        "Artist": "Xandria",
-        "Title": "We Are Murderers (We All)"
-      },
-      {
-        "Id": 1118896,
-        "Url": "https://osu.ppy.sh/beatmapsets/1118896",
-        "Artist": "yuki.",
-        "Title": "Be Your Light"
-      },
-      {
-        "Id": 1123258,
-        "Url": "https://osu.ppy.sh/beatmapsets/1123258",
-        "Artist": "saradisk",
-        "Title": "226 - Inoshikachoo!"
-      },
-      {
-        "Id": 1123379,
-        "Url": "https://osu.ppy.sh/beatmapsets/1123379",
-        "Artist": "Tsunomaki Watame",
-        "Title": "Watame Rap"
-      },
-      {
-        "Id": 1125030,
-        "Url": "https://osu.ppy.sh/beatmapsets/1125030",
-        "Artist": "Kokuchou feat. Chata",
-        "Title": "Lucid Dream"
-      },
-      {
-        "Id": 1128179,
-        "Url": "https://osu.ppy.sh/beatmapsets/1128179",
-        "Artist": "Ouroboros",
-        "Title": "Edifice Of Tyranny"
-      },
-      {
-        "Id": 1130197,
-        "Url": "https://osu.ppy.sh/beatmapsets/1130197",
-        "Artist": "UNDEAD CORPORATION",
-        "Title": "Everything will freeze"
-      },
-      {
-        "Id": 1140186,
-        "Url": "https://osu.ppy.sh/beatmapsets/1140186",
-        "Artist": "3 Nen E Gumi Utatan",
-        "Title": "Seishun Satsubatsuron"
-      },
-      {
-        "Id": 1141611,
-        "Url": "https://osu.ppy.sh/beatmapsets/1141611",
-        "Artist": "Fox Stevenson",
-        "Title": "Take You Down"
-      },
-      {
-        "Id": 1147542,
-        "Url": "https://osu.ppy.sh/beatmapsets/1147542",
-        "Artist": "3 Nen E Gumi Utatan",
-        "Title": "Jiriki Hongan Revolution (TV Size)"
-      }
-    ],
-    "Id": 1943,
-    "Name": "Taiko Beatmap Pack #93",
-    "Url": "https://osu.ppy.sh/beatmaps/packs/1943",
-    "CreationDate": "2020-05-16T00:00:00",
-    "Author": "Stefan"
-  },
-  {
-    "BeatmapSets": [
-      {
-        "Id": 856373,
-        "Url": "https://osu.ppy.sh/beatmapsets/856373",
-        "Artist": "Sano Hiroaki feat. Tatsumi Megumi",
-        "Title": "Tsubomi (Long Version)"
-      },
-      {
-        "Id": 1013115,
-        "Url": "https://osu.ppy.sh/beatmapsets/1013115",
-        "Artist": "egor nats",
-        "Title": "poslednyaya pesnya o ney"
-      },
-      {
-        "Id": 1022571,
-        "Url": "https://osu.ppy.sh/beatmapsets/1022571",
-        "Artist": "DragonForce",
-        "Title": "Highway to Oblivion"
-      },
-      {
-        "Id": 1048641,
-        "Url": "https://osu.ppy.sh/beatmapsets/1048641",
-        "Artist": "Sakai Shougo",
-        "Title": "Porky no Porky"
-      },
-      {
-        "Id": 1057894,
-        "Url": "https://osu.ppy.sh/beatmapsets/1057894",
-        "Artist": "Laur",
-        "Title": "Terminal Missa"
-      },
-      {
-        "Id": 1066593,
-        "Url": "https://osu.ppy.sh/beatmapsets/1066593",
-        "Artist": "Panda Eyes",
-        "Title": "Fruits"
-      },
-      {
-        "Id": 1103826,
-        "Url": "https://osu.ppy.sh/beatmapsets/1103826",
-        "Artist": "Station Earth",
-        "Title": "Summer Soulstice"
-      },
-      {
-        "Id": 1103941,
-        "Url": "https://osu.ppy.sh/beatmapsets/1103941",
-        "Artist": "F-777",
-        "Title": "System Split"
-      },
-      {
-        "Id": 1105327,
-        "Url": "https://osu.ppy.sh/beatmapsets/1105327",
-        "Artist": "Demetori",
-        "Title": "Hartmann no Youkai Shoujo ~ Todestrieb und Lebenstrieb"
-      },
-      {
-        "Id": 1123482,
-        "Url": "https://osu.ppy.sh/beatmapsets/1123482",
-        "Artist": "ginkiha",
-        "Title": "ARCADE_MEMORIES"
-      },
-      {
-        "Id": 1125625,
-        "Url": "https://osu.ppy.sh/beatmapsets/1125625",
-        "Artist": "hololive IDOL PROJECT",
-        "Title": "Kirameki Rider*"
-      },
-      {
-        "Id": 1127175,
-        "Url": "https://osu.ppy.sh/beatmapsets/1127175",
-        "Artist": "Yorushika",
-        "Title": "Itte."
-      },
-      {
-        "Id": 1127444,
-        "Url": "https://osu.ppy.sh/beatmapsets/1127444",
-        "Artist": "Grant Kirkhope",
-        "Title": "Creepy Castle Mine Cart"
-      },
-      {
-        "Id": 1127497,
-        "Url": "https://osu.ppy.sh/beatmapsets/1127497",
-        "Artist": "Machine Girl",
-        "Title": "Cloud99 (As Above Mix)"
-      },
-      {
-        "Id": 1128209,
-        "Url": "https://osu.ppy.sh/beatmapsets/1128209",
-        "Artist": "ELFENSJoN",
-        "Title": "EINHERJAR"
-      },
-      {
-        "Id": 1129998,
-        "Url": "https://osu.ppy.sh/beatmapsets/1129998",
-        "Artist": "Uematsu Nobuo",
-        "Title": "Edgar &amp; Sabin&#039;s Theme"
-      },
-      {
-        "Id": 1130664,
-        "Url": "https://osu.ppy.sh/beatmapsets/1130664",
-        "Artist": "Nile",
-        "Title": "The Inevitable Degradation of Flesh"
-      },
-      {
-        "Id": 1137166,
-        "Url": "https://osu.ppy.sh/beatmapsets/1137166",
-        "Artist": "MillhioreF",
-        "Title": "Waltz o&#039; the Irish"
-      },
-      {
-        "Id": 1141344,
-        "Url": "https://osu.ppy.sh/beatmapsets/1141344",
-        "Artist": "sakuraburst",
-        "Title": "forest of the spirits"
-      },
-      {
-        "Id": 1141949,
-        "Url": "https://osu.ppy.sh/beatmapsets/1141949",
-        "Artist": "100mi",
-        "Title": "songsevery1hasheardb4"
-      }
-    ],
-    "Id": 1942,
-    "Name": "Taiko Beatmap Pack #92",
-    "Url": "https://osu.ppy.sh/beatmaps/packs/1942",
-    "CreationDate": "2020-05-16T00:00:00",
     "Author": "Stefan"
   }
 ]
