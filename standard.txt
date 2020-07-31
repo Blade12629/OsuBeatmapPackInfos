@@ -1,5 +1,94 @@
 START
 PACK START
+1977
+Beatmap Pack #913
+https://osu.ppy.sh/beatmaps/packs/1977
+31.07.2020 00:00:00
+Stefan
+SETS START
+1032966
+https://osu.ppy.sh/beatmapsets/1032966
+mono palette.
+Long Time Traveler (TV Size)
+1060676
+https://osu.ppy.sh/beatmapsets/1060676
+yanaginagi
+Orarion
+1079428
+https://osu.ppy.sh/beatmapsets/1079428
+True Damage
+GIANTS (feat. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose)
+1106913
+https://osu.ppy.sh/beatmapsets/1106913
+Chata
+Dango Daikazoku
+1107354
+https://osu.ppy.sh/beatmapsets/1107354
+Nase Yukana (CV: Akino Hana)
+Because of
+1115294
+https://osu.ppy.sh/beatmapsets/1115294
+Pastel*Palettes
+Kyu~mai*flower
+1122381
+https://osu.ppy.sh/beatmapsets/1122381
+Singularity
+Alone (Au5 &amp; Fractal Remix)
+1152106
+https://osu.ppy.sh/beatmapsets/1152106
+Nakiri Ayame
+Deep Indigo
+1155614
+https://osu.ppy.sh/beatmapsets/1155614
+KIRA
+MONSTER (feat. GUMI)
+1173392
+https://osu.ppy.sh/beatmapsets/1173392
+Ryokuoushoku Shakai
+Shout Baby (TV Size)
+1174505
+https://osu.ppy.sh/beatmapsets/1174505
+The Cab
+Angel With A Shotgun (Sped Up Ver.)
+1175049
+https://osu.ppy.sh/beatmapsets/1175049
+Sakura Miko
+Sakurakaze
+1177166
+https://osu.ppy.sh/beatmapsets/1177166
+XL Project
+Necro Fantasia
+1184482
+https://osu.ppy.sh/beatmapsets/1184482
+Thank You Scientist
+The Amateur Arsonist&#039;s Handbook
+1196197
+https://osu.ppy.sh/beatmapsets/1196197
+Iino Miko (CV: Tomita Miyu)
+Othello
+1197420
+https://osu.ppy.sh/beatmapsets/1197420
+Rie fu
+Life is Like a Boat (TV Size)
+1206019
+https://osu.ppy.sh/beatmapsets/1206019
+Minami
+Ame o Matsu,
+1207069
+https://osu.ppy.sh/beatmapsets/1207069
+Kitamura Eri
+mirage an illusory hope
+1209564
+https://osu.ppy.sh/beatmapsets/1209564
+Brian the Sun
+HEROES (TV Size)
+1212232
+https://osu.ppy.sh/beatmapsets/1212232
+SOUND HOLIC
+The Party We Have Never Seen
+SETS END
+PACK END
+PACK START
 1976
 Beatmap Pack #912
 https://osu.ppy.sh/beatmaps/packs/1976
@@ -1608,95 +1697,6 @@ Absent Color
 https://osu.ppy.sh/beatmapsets/1175331
 Sound Souler
 Out of Sense
-SETS END
-PACK END
-PACK START
-1957
-Taiko Beatmap Pack #98
-https://osu.ppy.sh/beatmaps/packs/1957
-21.06.2020 00:00:00
-Stefan
-SETS START
-466009
-https://osu.ppy.sh/beatmapsets/466009
-Ayane
-Arrival of Tears (TV Size)
-875020
-https://osu.ppy.sh/beatmapsets/875020
-DECO*27
-HIBANA feat. Hatsune Miku
-1033681
-https://osu.ppy.sh/beatmapsets/1033681
-Rameses B
-Dream Catcher (feat. Charlotte Haining)
-1052288
-https://osu.ppy.sh/beatmapsets/1052288
-Mameyudoufu
-Quality Control
-1055189
-https://osu.ppy.sh/beatmapsets/1055189
-sakuraburst
-anticrystal
-1091368
-https://osu.ppy.sh/beatmapsets/1091368
-Perfume
-Lovefool (30 Byou Ver.)
-1100294
-https://osu.ppy.sh/beatmapsets/1100294
-Katsuro Tajima
-Charlie Dash!
-1112418
-https://osu.ppy.sh/beatmapsets/1112418
-Jackal Queenston
-Rubber Band
-1128029
-https://osu.ppy.sh/beatmapsets/1128029
-Nightmargin (Casey Gu) and Michael Shirt
-Niko&#039;s theme
-1132374
-https://osu.ppy.sh/beatmapsets/1132374
-Imperial Circus Dead Decadence
-BRING+EYES=DEATH+INVITE
-1133066
-https://osu.ppy.sh/beatmapsets/1133066
-lapix feat. Luschel
-Cranberry City
-1141099
-https://osu.ppy.sh/beatmapsets/1141099
-ginkiha
-eastward
-1151233
-https://osu.ppy.sh/beatmapsets/1151233
-Aiobahn
-Koko ni Iru (feat. rionos)
-1151616
-https://osu.ppy.sh/beatmapsets/1151616
-Sound Souler
-Aqua Stars
-1154691
-https://osu.ppy.sh/beatmapsets/1154691
-Camellia
-flower of wilderness
-1156236
-https://osu.ppy.sh/beatmapsets/1156236
-CircusP
-iNSaNiTY
-1158149
-https://osu.ppy.sh/beatmapsets/1158149
-LeaF
-Kyouki Ranbu (extended ver.)
-1160027
-https://osu.ppy.sh/beatmapsets/1160027
-Imperial Circus Dead Decadence
-Seishin no Kairi no, Sakebi to Nageki.
-1164599
-https://osu.ppy.sh/beatmapsets/1164599
-Camellia
-Feelin Sky (Camellia&#039;s &quot;200step&quot; Self-remix)
-1170661
-https://osu.ppy.sh/beatmapsets/1170661
-Men I Trust
-You Deserve This
 SETS END
 PACK END
 END
