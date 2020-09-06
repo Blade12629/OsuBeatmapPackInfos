@@ -1,5 +1,628 @@
 START
 PACK START
+2006
+Mania Beatmap Pack #75
+https://osu.ppy.sh/beatmaps/packs/2006
+06.09.2020 00:00:00
+Stefan
+SETS START
+930081
+https://osu.ppy.sh/beatmapsets/930081
+DJ TOTTO
+glacia
+1058971
+https://osu.ppy.sh/beatmapsets/1058971
+Minase Inori, Hanazawa Kana, Iguchi Yuka, Hayami Saori
+Koko Kara, Koko Kara (TV Size)
+1063740
+https://osu.ppy.sh/beatmapsets/1063740
+Camellia
+WHAT THE CAT!?
+1066161
+https://osu.ppy.sh/beatmapsets/1066161
+technoplanet feat. Kuroto Sion
+Turn the story
+1072682
+https://osu.ppy.sh/beatmapsets/1072682
+Mutsuhiko Izumi vs. DJ TOTTO
+Nijiiro Yuenchi
+1076432
+https://osu.ppy.sh/beatmapsets/1076432
+Mili
+Utopiosphere
+1086164
+https://osu.ppy.sh/beatmapsets/1086164
+Fractal Dreamers
+Ad Astra
+1088021
+https://osu.ppy.sh/beatmapsets/1088021
+Sasaki Sayaka
+Sakura, Reincarnation
+1092567
+https://osu.ppy.sh/beatmapsets/1092567
+Criticrista
+Bibibeach Bibibibeach! (411 Socacore Remix)
+1094309
+https://osu.ppy.sh/beatmapsets/1094309
+Tsukikage
+Spatto! Spy &amp; Spyce (TV Size)
+1111754
+https://osu.ppy.sh/beatmapsets/1111754
+Camellia vs. lapix
+Hypnotize
+1125774
+https://osu.ppy.sh/beatmapsets/1125774
+Sakuzyo
+AngelFalse
+1154007
+https://osu.ppy.sh/beatmapsets/1154007
+LeaF
+ATHAZA
+1159152
+https://osu.ppy.sh/beatmapsets/1159152
+Zekk
+MEJIRUSHI
+1161078
+https://osu.ppy.sh/beatmapsets/1161078
+Criticrista
+Hanate! Dododoon! (TV Size)
+1173144
+https://osu.ppy.sh/beatmapsets/1173144
+beatMARIO
+Night of Knights (Cranky Remix)
+1196084
+https://osu.ppy.sh/beatmapsets/1196084
+Usada Pekora
+Discommunication Alien
+1207300
+https://osu.ppy.sh/beatmapsets/1207300
+halca
+Kokuhaku Bungee Jump (TV Size)
+1209035
+https://osu.ppy.sh/beatmapsets/1209035
+Sasaki Sayaka
+Innocent Princess
+1215108
+https://osu.ppy.sh/beatmapsets/1215108
+Pastel*Palettes
+Gyu DAYS
+SETS END
+PACK END
+PACK START
+2005
+Mania Beatmap Pack #74
+https://osu.ppy.sh/beatmaps/packs/2005
+06.09.2020 00:00:00
+Stefan
+SETS START
+795112
+https://osu.ppy.sh/beatmapsets/795112
+Laur
+Cyber Attack
+925325
+https://osu.ppy.sh/beatmapsets/925325
+Helblinde
+C204
+1011424
+https://osu.ppy.sh/beatmapsets/1011424
+Moso Calibration
+Sakurairo Diary (TV Size)
+1061097
+https://osu.ppy.sh/beatmapsets/1061097
+DIALOGUE+
+Hajimete no Kakumei! (TV Size)
+1065389
+https://osu.ppy.sh/beatmapsets/1065389
+PSYQUI
+Stepper
+1070605
+https://osu.ppy.sh/beatmapsets/1070605
+Nekomata Gekidan
+AsiaN distractive
+1081840
+https://osu.ppy.sh/beatmapsets/1081840
+ave;new feat. Sakura Saori
+Cold Voice
+1084075
+https://osu.ppy.sh/beatmapsets/1084075
+Hitori Bocchi (CV: Morishita Chisaki)
+Ne, Issho ni Kaero. (TV Size)
+1088476
+https://osu.ppy.sh/beatmapsets/1088476
+xi
+Solar Storm
+1099440
+https://osu.ppy.sh/beatmapsets/1099440
+Mashumairesh!!
+Hiromenes (TV Size)
+1141872
+https://osu.ppy.sh/beatmapsets/1141872
+THE ORAL CIGARETTES
+ReI
+1142143
+https://osu.ppy.sh/beatmapsets/1142143
+SWJA
+SPRINGIRLS
+1151505
+https://osu.ppy.sh/beatmapsets/1151505
+Duca
+Kanransha ~Ano Hi to, Kinou to Kyou to Ashita to~
+1154702
+https://osu.ppy.sh/beatmapsets/1154702
+ETIA.
+Singularity
+1159083
+https://osu.ppy.sh/beatmapsets/1159083
+A Himitsu
+Lost Within
+1176967
+https://osu.ppy.sh/beatmapsets/1176967
+Yooh
+Dynasty -al fine-
+1204419
+https://osu.ppy.sh/beatmapsets/1204419
+the peggies
+Centimeter (TV Size)
+1204942
+https://osu.ppy.sh/beatmapsets/1204942
+ChouCho
+Kawaru Mirai (TV Size)
+1213119
+https://osu.ppy.sh/beatmapsets/1213119
+kemu feat. IA
+Six trillion years and overnight story
+1217567
+https://osu.ppy.sh/beatmapsets/1217567
+Vini Vici
+kookaburra remix
+SETS END
+PACK END
+PACK START
+2004
+Mania Beatmap Pack #73
+https://osu.ppy.sh/beatmaps/packs/2004
+06.09.2020 00:00:00
+Stefan
+SETS START
+666454
+https://osu.ppy.sh/beatmapsets/666454
+Camellia
+Tornado
+680986
+https://osu.ppy.sh/beatmapsets/680986
+Takeo Ischi
+Einen Jodler hoer ich gern
+778969
+https://osu.ppy.sh/beatmapsets/778969
+Unicorn (CV: Kakuma Ai)
+My Night
+785871
+https://osu.ppy.sh/beatmapsets/785871
+Alstroemeria Records
+ARROW RAIN
+826088
+https://osu.ppy.sh/beatmapsets/826088
+Xiao Pan Pan &amp; Xiao Feng Feng
+Xue Mao Jiao
+930264
+https://osu.ppy.sh/beatmapsets/930264
+Mwk
+SPLASH
+1067037
+https://osu.ppy.sh/beatmapsets/1067037
+Hanz
+Without Boundaries
+1071024
+https://osu.ppy.sh/beatmapsets/1071024
+daisan
++
+1131426
+https://osu.ppy.sh/beatmapsets/1131426
+Camellia
+flower of wilderness
+1135268
+https://osu.ppy.sh/beatmapsets/1135268
+Ling Yuan yousa
+Gou Zhi Qi Shi
+1137400
+https://osu.ppy.sh/beatmapsets/1137400
+HoneyWorks
+Watashi no Tenshi feat. Narumi Sena (CV: Amamiya Sora)
+1138636
+https://osu.ppy.sh/beatmapsets/1138636
+Kaminoki Koukou Cheerleading-bu
+Jump Up Yell!! (TV Size)
+1139736
+https://osu.ppy.sh/beatmapsets/1139736
+Ushirokara Haiyoritai G
+Koi wa Chaos no Shimobenari (TV Size)
+1140163
+https://osu.ppy.sh/beatmapsets/1140163
+Silentroom
+Nhelv
+1143243
+https://osu.ppy.sh/beatmapsets/1143243
+Kizuna AI
+future base (Assertive Hardcore Bootleg)
+1165894
+https://osu.ppy.sh/beatmapsets/1165894
+Iguchi Yuka
+HELLO to DREAM (TV Size)
+1166478
+https://osu.ppy.sh/beatmapsets/1166478
+Evin a&#039;k
+Coffin dance (Hard Renaissance)
+1178598
+https://osu.ppy.sh/beatmapsets/1178598
+Aphex Twin
+Flim
+1192653
+https://osu.ppy.sh/beatmapsets/1192653
+Suzuki Konomi
+Realize (TV Size)
+1204733
+https://osu.ppy.sh/beatmapsets/1204733
+Fujita Akane, Miyamoto Yume, Ozawa Ari
+Precious You* (TV Size)
+SETS END
+PACK END
+PACK START
+2003
+Catch the Beat Beatmap Pack #38
+https://osu.ppy.sh/beatmaps/packs/2003
+06.09.2020 00:00:00
+Stefan
+SETS START
+754212
+https://osu.ppy.sh/beatmapsets/754212
+Serena (CV: Makiguchi Mayuki)
+Dori Dori (TV Size)
+976311
+https://osu.ppy.sh/beatmapsets/976311
+HyuN feat. Yu-A
+My life is for you
+1074448
+https://osu.ppy.sh/beatmapsets/1074448
+REDALiCE vs. MASAKI
+BUCHiGiRE Berserker
+1112696
+https://osu.ppy.sh/beatmapsets/1112696
+Bring Me The Horizon
+in the dark
+1135515
+https://osu.ppy.sh/beatmapsets/1135515
+Lolipusher
+why as soon as we become so close, we have to say goodbye?
+1147176
+https://osu.ppy.sh/beatmapsets/1147176
+Raito
+Unknown Actor (feat. Ishadoh Sakura)
+1147479
+https://osu.ppy.sh/beatmapsets/1147479
+Yuuka
+Girls&#039; Carnival
+1149834
+https://osu.ppy.sh/beatmapsets/1149834
+Stray Kids
+TOP -Japanese ver.- (TV Size)
+1155135
+https://osu.ppy.sh/beatmapsets/1155135
+LeaF
+Wizdomiot (extended ver.)
+1161953
+https://osu.ppy.sh/beatmapsets/1161953
+Shiggy Jr.
+oyasumi
+1165090
+https://osu.ppy.sh/beatmapsets/1165090
+Nanahira
+Petals
+1180607
+https://osu.ppy.sh/beatmapsets/1180607
+LeaF
+Calamity Fortune (extended ver.)
+1189400
+https://osu.ppy.sh/beatmapsets/1189400
+Ryokuoushoku Shakai
+Shout Baby (TV Size)
+1197461
+https://osu.ppy.sh/beatmapsets/1197461
+MIMI
+Nanimo nai Youna
+1198625
+https://osu.ppy.sh/beatmapsets/1198625
+IKIMONOGAKARI
+Hotaru no Hikari (TV Size)
+1205919
+https://osu.ppy.sh/beatmapsets/1205919
+765 MILLION ALLSTARS
+UNION!!
+1206887
+https://osu.ppy.sh/beatmapsets/1206887
+Aimer
+SPARK-AGAIN (TV Size)
+1207235
+https://osu.ppy.sh/beatmapsets/1207235
+otokaz with Komiya Mao
+Fill my DELLUMINATION
+1210535
+https://osu.ppy.sh/beatmapsets/1210535
+MY FIRST STORY feat. chelly (EGOIST)
+1,000,000 TIMES
+1224186
+https://osu.ppy.sh/beatmapsets/1224186
+siqlo
+Midnight, Sunrise Sign
+SETS END
+PACK END
+PACK START
+2002
+Catch the Beat Beatmap Pack #37
+https://osu.ppy.sh/beatmaps/packs/2002
+06.09.2020 00:00:00
+Stefan
+SETS START
+996696
+https://osu.ppy.sh/beatmapsets/996696
+EGOIST
+The Everlasting Guilty Crown (TV Size)
+1018035
+https://osu.ppy.sh/beatmapsets/1018035
+Selphius
+Los! Los! Los!
+1023464
+https://osu.ppy.sh/beatmapsets/1023464
+RoughSketch
+Ghost Family Living In Graveyard
+1032193
+https://osu.ppy.sh/beatmapsets/1032193
+FictionJunction feat. LiSA
+from the edge (TV Size)
+1068477
+https://osu.ppy.sh/beatmapsets/1068477
+Yuduki
+Ano Hi e
+1069433
+https://osu.ppy.sh/beatmapsets/1069433
+Q-MHz feat. Mitsuhiro Hidaka a.k.a SKY-HI
+Kaze Tsuyoku, Kimi Atsuku. (TV Size)
+1090079
+https://osu.ppy.sh/beatmapsets/1090079
+Mili
+world.execute(me);
+1105820
+https://osu.ppy.sh/beatmapsets/1105820
+REDALiCE vs. USAO
+SAIKYO STRONGER
+1124930
+https://osu.ppy.sh/beatmapsets/1124930
+Ray
+secret arms (TV Size)
+1138424
+https://osu.ppy.sh/beatmapsets/1138424
+Chiho feat. majiko
+Egao no Kanata (TV Size)
+1141444
+https://osu.ppy.sh/beatmapsets/1141444
+Memme
+Plasma Gun
+1143608
+https://osu.ppy.sh/beatmapsets/1143608
+Street
+Sakura Fubuki
+1148317
+https://osu.ppy.sh/beatmapsets/1148317
+Spawn of Possession
+Apparition
+1151357
+https://osu.ppy.sh/beatmapsets/1151357
+Crystal Castles
+Vietnam
+1155991
+https://osu.ppy.sh/beatmapsets/1155991
+EDOGA-SULLIVAN
+WONDERFUL WONDER (TV Size)
+1159828
+https://osu.ppy.sh/beatmapsets/1159828
+PUP
+DVP
+1168675
+https://osu.ppy.sh/beatmapsets/1168675
+Silentroom
+LASTMORN
+1178666
+https://osu.ppy.sh/beatmapsets/1178666
+yuiko
+petit bonheur
+1178794
+https://osu.ppy.sh/beatmapsets/1178794
+Perfume
+Lovefool (30 Byou Ver.)
+1195922
+https://osu.ppy.sh/beatmapsets/1195922
+Disasterpeace
+Home
+SETS END
+PACK END
+PACK START
+2000
+Taiko Beatmap Pack #107
+https://osu.ppy.sh/beatmaps/packs/2000
+06.09.2020 00:00:00
+Stefan
+SETS START
+491921
+https://osu.ppy.sh/beatmapsets/491921
+KANA-BOON
+talking (TV Size)
+729835
+https://osu.ppy.sh/beatmapsets/729835
+Rhapsody Of Fire
+Reign Of Terror
+777896
+https://osu.ppy.sh/beatmapsets/777896
+NARUTO
+Artificial Intelligence Bomb
+954004
+https://osu.ppy.sh/beatmapsets/954004
+Mimori Suzuko
+Univer Page (TV Size)
+1094423
+https://osu.ppy.sh/beatmapsets/1094423
+Mitsunori Ikeda feat. Aimee B
+Fallen Angel (el poco maro Remix)
+1128229
+https://osu.ppy.sh/beatmapsets/1128229
+x0o0x_
+
+1134145
+https://osu.ppy.sh/beatmapsets/1134145
+Team Grimoire + Amaneko
+croiX
+1150483
+https://osu.ppy.sh/beatmapsets/1150483
+ROKINA
+MachinaRegina
+1155286
+https://osu.ppy.sh/beatmapsets/1155286
+U1 High-Speed
+EGOISM 440
+1170472
+https://osu.ppy.sh/beatmapsets/1170472
+twiddy
+The Birds
+1183142
+https://osu.ppy.sh/beatmapsets/1183142
+kiraku
+connection
+1197933
+https://osu.ppy.sh/beatmapsets/1197933
+lapix feat. Luschel
+Cranberry City (Extended Mix)
+1203666
+https://osu.ppy.sh/beatmapsets/1203666
+Bring Me The Horizon
+Parasite Eve
+1204058
+https://osu.ppy.sh/beatmapsets/1204058
+Suzuki Keiichi
+Pollyanna (I Believe in You)
+1210790
+https://osu.ppy.sh/beatmapsets/1210790
+Ne Obliviscaris
+And Plague Flowers The Kaleidoscope
+1223949
+https://osu.ppy.sh/beatmapsets/1223949
+BEMANI Sound Team &quot;Nekomata Master&quot;
+Painful Fate
+1225007
+https://osu.ppy.sh/beatmapsets/1225007
+Lime
+8bit Adventurer
+1225464
+https://osu.ppy.sh/beatmapsets/1225464
+EmoCosine
+Give You My World
+1234186
+https://osu.ppy.sh/beatmapsets/1234186
+Ata
+Euphoria
+1236758
+https://osu.ppy.sh/beatmapsets/1236758
+moro
+Holy Bitch
+SETS END
+PACK END
+PACK START
+1999
+Taiko Beatmap Pack #106
+https://osu.ppy.sh/beatmaps/packs/1999
+06.09.2020 00:00:00
+Stefan
+SETS START
+725836
+https://osu.ppy.sh/beatmapsets/725836
+ginkiha
+EOS
+807972
+https://osu.ppy.sh/beatmapsets/807972
+Milharal
+SORRIZO RONALDO
+1077974
+https://osu.ppy.sh/beatmapsets/1077974
+Denkishiki Karen Ongaku Shuudan
+Lily Toxicity
+1113843
+https://osu.ppy.sh/beatmapsets/1113843
+Tali
+Nokia Shqip
+1130071
+https://osu.ppy.sh/beatmapsets/1130071
+LeaF
+Doppelganger
+1135349
+https://osu.ppy.sh/beatmapsets/1135349
+F-777
+Space Battle
+1144916
+https://osu.ppy.sh/beatmapsets/1144916
+Zekk
+Ashes
+1155594
+https://osu.ppy.sh/beatmapsets/1155594
+Thaehan
+Bwa !
+1164471
+https://osu.ppy.sh/beatmapsets/1164471
+Rahatt
+Mafijas Breakcore
+1168535
+https://osu.ppy.sh/beatmapsets/1168535
+Sound Souler
+Gloom After Death
+1175317
+https://osu.ppy.sh/beatmapsets/1175317
+Kendrick Lamar
+King Kunta
+1184228
+https://osu.ppy.sh/beatmapsets/1184228
+ARForest
+Regret
+1195463
+https://osu.ppy.sh/beatmapsets/1195463
+Task Horizon
+Phase Prism
+1202121
+https://osu.ppy.sh/beatmapsets/1202121
+Chroma
+Hoshi ga Furanai Machi
+1205053
+https://osu.ppy.sh/beatmapsets/1205053
+Beethoven
+Moonlight Sonata 3rd Movement (meganeko remix)
+1211080
+https://osu.ppy.sh/beatmapsets/1211080
+Rivers of Nihil
+Death Is Real
+1219062
+https://osu.ppy.sh/beatmapsets/1219062
+Task Horizon
+Weave The Strands
+1219095
+https://osu.ppy.sh/beatmapsets/1219095
+toby fox
+Wrong Enemy !?
+1223928
+https://osu.ppy.sh/beatmapsets/1223928
+fripSide
+dual existence
+1230996
+https://osu.ppy.sh/beatmapsets/1230996
+Sampling Masters MEGA &amp; Tatsh
+Weave Detonator
+SETS END
+PACK END
+PACK START
 1998
 Beatmap Pack #925
 https://osu.ppy.sh/beatmaps/packs/1998
@@ -1154,629 +1777,6 @@ Tenkyou no Alderamin (TV Size)
 https://osu.ppy.sh/beatmapsets/1222043
 Kuroha Neko (CV: Taneda Risa)
 Sassou Toujou! Neko-san
-SETS END
-PACK END
-PACK START
-1981
-Beatmap Pack #917
-https://osu.ppy.sh/beatmaps/packs/1981
-14.08.2020 00:00:00
-Stefan
-SETS START
-72790
-https://osu.ppy.sh/beatmapsets/72790
-iconoclasm
-perditus paradisus
-193841
-https://osu.ppy.sh/beatmapsets/193841
-MIKA
-Live Your Life
-844390
-https://osu.ppy.sh/beatmapsets/844390
-Jorge Vercillo
-Arco Iris
-897724
-https://osu.ppy.sh/beatmapsets/897724
-sakuraburst
-data corruption symphony
-1023912
-https://osu.ppy.sh/beatmapsets/1023912
-Silent Siren
-Hachigatsu no Yoru
-1030225
-https://osu.ppy.sh/beatmapsets/1030225
-Wakamiya Hina (CV: Mikami Shiori), Segawa Ayame (CV: Takamori Natsumi)
-Koigokoro Tsunagi
-1125952
-https://osu.ppy.sh/beatmapsets/1125952
-Paramore
-For A Pessimist, I&#039;m Pretty Optimistic
-1144729
-https://osu.ppy.sh/beatmapsets/1144729
-cillia
-Pretender (Short Ver.)
-1148856
-https://osu.ppy.sh/beatmapsets/1148856
-Fleur
-Chelovek 33 cherty
-1166355
-https://osu.ppy.sh/beatmapsets/1166355
-Okui Masami
-Takarabako -TREASURE BOX- (TV Size)
-1174616
-https://osu.ppy.sh/beatmapsets/1174616
-LeaF
-Mopemope
-1175467
-https://osu.ppy.sh/beatmapsets/1175467
-PUP
-Closure
-1176375
-https://osu.ppy.sh/beatmapsets/1176375
-Dirty Androids
-Midnight Lady
-1179039
-https://osu.ppy.sh/beatmapsets/1179039
-hitorie
-one-Me two-Hearts (TV Size)
-1190926
-https://osu.ppy.sh/beatmapsets/1190926
-L.E.D.-G
-EMPEROR OF THE AVALON
-1193634
-https://osu.ppy.sh/beatmapsets/1193634
-Suzuki Konomi
-Redo (TV Size)
-1201877
-https://osu.ppy.sh/beatmapsets/1201877
-Rusty K
-Limitless
-1207609
-https://osu.ppy.sh/beatmapsets/1207609
-Seth Everman
-how to create the weeknd&#039;s &quot;blinding lights&quot;
-1222166
-https://osu.ppy.sh/beatmapsets/1222166
-Lapis Re:LiGHTs Stars
-Watashitachi no STARTRAIL (TV Size)
-1226315
-https://osu.ppy.sh/beatmapsets/1226315
-nonoc
-Memento (TV Size)
-SETS END
-PACK END
-PACK START
-1980
-Beatmap Pack #916
-https://osu.ppy.sh/beatmaps/packs/1980
-14.08.2020 00:00:00
-Stefan
-SETS START
-889514
-https://osu.ppy.sh/beatmapsets/889514
-Expander
-subtractive
-1041151
-https://osu.ppy.sh/beatmapsets/1041151
-System Of A Down
-Toxicity
-1052766
-https://osu.ppy.sh/beatmapsets/1052766
-BOOGABOO
-BUGABUGA CHEW CHEW
-1055405
-https://osu.ppy.sh/beatmapsets/1055405
-Ray
-Rakuen PROJECT (TV Size)
-1057006
-https://osu.ppy.sh/beatmapsets/1057006
-SawanoHiroyuki[nZk]:Anly
-Tranquility
-1092562
-https://osu.ppy.sh/beatmapsets/1092562
-Natsuiro Matsuri &amp; Rikka
-Hakujitsu
-1103785
-https://osu.ppy.sh/beatmapsets/1103785
-Uratanuki x Pusu
-Pokopoko Tanuki to Pusu Usagi
-1130622
-https://osu.ppy.sh/beatmapsets/1130622
-Toraboruta
-Kokoro
-1158182
-https://osu.ppy.sh/beatmapsets/1158182
-KISIDA KYODAN &amp; THE AKEBOSI ROCKETS
-nameless story (TV Size)
-1159464
-https://osu.ppy.sh/beatmapsets/1159464
-DAISHI DANCE
-Take me hand feat. Cecile Corbel
-1165136
-https://osu.ppy.sh/beatmapsets/1165136
-Arizona Zervas
-ROXANNE
-1165741
-https://osu.ppy.sh/beatmapsets/1165741
-Neru feat. Kagamine Rin
-Tokyo Teddy Bear
-1171188
-https://osu.ppy.sh/beatmapsets/1171188
-PUP
-Full Blown Meltdown
-1175182
-https://osu.ppy.sh/beatmapsets/1175182
-Katakiri Rekka &amp; Suzuyu
-Girl meets Love
-1189709
-https://osu.ppy.sh/beatmapsets/1189709
-Ito Kashitaro
-Melancholic
-1191951
-https://osu.ppy.sh/beatmapsets/1191951
-Hyper Potions &amp; Skye Rocket
-Shooting Star
-1202606
-https://osu.ppy.sh/beatmapsets/1202606
-Yorushika
-Thoughtcrime
-1206779
-https://osu.ppy.sh/beatmapsets/1206779
-O2i3
-TSLove
-1208318
-https://osu.ppy.sh/beatmapsets/1208318
-Amagi Sera
-Aruruuna no Utagoe
-1212828
-https://osu.ppy.sh/beatmapsets/1212828
-Kevin Penkin
-Made in Abyss
-SETS END
-PACK END
-PACK START
-1979
-Beatmap Pack #915
-https://osu.ppy.sh/beatmaps/packs/1979
-08.08.2020 00:00:00
-Stefan
-SETS START
-49351
-https://osu.ppy.sh/beatmapsets/49351
-Marianas Trench
-Celebrity Status
-629209
-https://osu.ppy.sh/beatmapsets/629209
-Lady Gaga
-The Cure
-906820
-https://osu.ppy.sh/beatmapsets/906820
-Cat Nap
-Beyond
-972185
-https://osu.ppy.sh/beatmapsets/972185
-Red Pulse
-Open Your Mind
-984451
-https://osu.ppy.sh/beatmapsets/984451
-Taylor Swift
-Delicate
-995255
-https://osu.ppy.sh/beatmapsets/995255
-mafumafu
-Ame to Petra
-1052797
-https://osu.ppy.sh/beatmapsets/1052797
-Camellia
-LET&#039;S JUMP (Camellia&#039;s &quot;diffractive&quot; Hardcore Remix)
-1092482
-https://osu.ppy.sh/beatmapsets/1092482
-Thank You Scientist
-Birdwatching
-1102376
-https://osu.ppy.sh/beatmapsets/1102376
-Lie and a Chameleon
-mononoke in the fiction (TV Size)
-1128064
-https://osu.ppy.sh/beatmapsets/1128064
-Coconatsu
-Ronron e Rairairai!
-1156668
-https://osu.ppy.sh/beatmapsets/1156668
-ReoNa
-Untitled world
-1157141
-https://osu.ppy.sh/beatmapsets/1157141
-Morohoshi Sumire
-Tsumujikaze (TV Size)
-1157872
-https://osu.ppy.sh/beatmapsets/1157872
-Feryquitous
-I can avoid it.#owo
-1174566
-https://osu.ppy.sh/beatmapsets/1174566
-Liz Triangle
-moon light step
-1175287
-https://osu.ppy.sh/beatmapsets/1175287
-ginkiha, Shiki
-Will to live
-1178838
-https://osu.ppy.sh/beatmapsets/1178838
-Oshio Kotaro
-Brand New Wings
-1186066
-https://osu.ppy.sh/beatmapsets/1186066
-Self Deception
-Weight Of The World
-1189927
-https://osu.ppy.sh/beatmapsets/1189927
-LiSA
-Jet Rocket
-1202029
-https://osu.ppy.sh/beatmapsets/1202029
-Yorushika
-Shikaki to Coffee
-1207597
-https://osu.ppy.sh/beatmapsets/1207597
-Aimer
-SPARK-AGAIN (TV Size)
-SETS END
-PACK END
-PACK START
-1978
-Beatmap Pack #914
-https://osu.ppy.sh/beatmaps/packs/1978
-08.08.2020 00:00:00
-Stefan
-SETS START
-582024
-https://osu.ppy.sh/beatmapsets/582024
-wa.
-Black Lotus
-674701
-https://osu.ppy.sh/beatmapsets/674701
-Fujita Akane, Miyamoto Yume, Ozawa Ari
-Precious You* (TV Size)
-903515
-https://osu.ppy.sh/beatmapsets/903515
-Neople
-intro
-934858
-https://osu.ppy.sh/beatmapsets/934858
-Pastel*Palettes
-Baby Sweet Berry Love
-942637
-https://osu.ppy.sh/beatmapsets/942637
-C418
-Sweden (Caution &amp; Crisis Remix)
-1076872
-https://osu.ppy.sh/beatmapsets/1076872
-Katakiri Rekka x Cranky
-Zeijakunaru Inori - Aganai no Chinkonka
-1090804
-https://osu.ppy.sh/beatmapsets/1090804
-D-ne (CV: Aizawa Mai)
-Sarumane Isutori Game
-1094694
-https://osu.ppy.sh/beatmapsets/1094694
-Hirose Kohmi
-promise
-1140557
-https://osu.ppy.sh/beatmapsets/1140557
-Raujika
-Grim
-1161103
-https://osu.ppy.sh/beatmapsets/1161103
-KISIDA KYODAN &amp; THE AKEBOSI ROCKETS
-Jiyuu e no Sanka
-1165203
-https://osu.ppy.sh/beatmapsets/1165203
-technoplanet feat. Haruno
-Kiraku na Cloudy
-1169877
-https://osu.ppy.sh/beatmapsets/1169877
-ELFENSJoN
-ORPHEUS
-1171055
-https://osu.ppy.sh/beatmapsets/1171055
-PUP
-Factories
-1189904
-https://osu.ppy.sh/beatmapsets/1189904
-Aoi Shouta
-BAD END (TV Size)
-1192829
-https://osu.ppy.sh/beatmapsets/1192829
-315 STARS
-Reason!!
-1193189
-https://osu.ppy.sh/beatmapsets/1193189
-Shihori
-My Spring
-1194221
-https://osu.ppy.sh/beatmapsets/1194221
-the peggies
-Centimeter (TV Size)
-1202012
-https://osu.ppy.sh/beatmapsets/1202012
-Magus Two
-BEAUTIFUL SENTENCE (TV Size)
-1210297
-https://osu.ppy.sh/beatmapsets/1210297
-Amatsuki
-DORAEMON
-1212562
-https://osu.ppy.sh/beatmapsets/1212562
-KSUKE
-Contradiction (feat. Tyler Carter) (TV Size)
-SETS END
-PACK END
-PACK START
-1977
-Beatmap Pack #913
-https://osu.ppy.sh/beatmaps/packs/1977
-31.07.2020 00:00:00
-Stefan
-SETS START
-1032966
-https://osu.ppy.sh/beatmapsets/1032966
-mono palette.
-Long Time Traveler (TV Size)
-1060676
-https://osu.ppy.sh/beatmapsets/1060676
-yanaginagi
-Orarion
-1079428
-https://osu.ppy.sh/beatmapsets/1079428
-True Damage
-GIANTS (feat. Becky G, Keke Palmer, SOYEON, DUCKWRTH, Thutmose)
-1106913
-https://osu.ppy.sh/beatmapsets/1106913
-Chata
-Dango Daikazoku
-1107354
-https://osu.ppy.sh/beatmapsets/1107354
-Nase Yukana (CV: Akino Hana)
-Because of
-1115294
-https://osu.ppy.sh/beatmapsets/1115294
-Pastel*Palettes
-Kyu~mai*flower
-1122381
-https://osu.ppy.sh/beatmapsets/1122381
-Singularity
-Alone (Au5 &amp; Fractal Remix)
-1152106
-https://osu.ppy.sh/beatmapsets/1152106
-Nakiri Ayame
-Deep Indigo
-1155614
-https://osu.ppy.sh/beatmapsets/1155614
-KIRA
-MONSTER (feat. GUMI)
-1173392
-https://osu.ppy.sh/beatmapsets/1173392
-Ryokuoushoku Shakai
-Shout Baby (TV Size)
-1174505
-https://osu.ppy.sh/beatmapsets/1174505
-The Cab
-Angel With A Shotgun (Sped Up Ver.)
-1175049
-https://osu.ppy.sh/beatmapsets/1175049
-Sakura Miko
-Sakurakaze
-1177166
-https://osu.ppy.sh/beatmapsets/1177166
-XL Project
-Necro Fantasia
-1184482
-https://osu.ppy.sh/beatmapsets/1184482
-Thank You Scientist
-The Amateur Arsonist&#039;s Handbook
-1196197
-https://osu.ppy.sh/beatmapsets/1196197
-Iino Miko (CV: Tomita Miyu)
-Othello
-1197420
-https://osu.ppy.sh/beatmapsets/1197420
-Rie fu
-Life is Like a Boat (TV Size)
-1206019
-https://osu.ppy.sh/beatmapsets/1206019
-Minami
-Ame o Matsu,
-1207069
-https://osu.ppy.sh/beatmapsets/1207069
-Kitamura Eri
-mirage an illusory hope
-1209564
-https://osu.ppy.sh/beatmapsets/1209564
-Brian the Sun
-HEROES (TV Size)
-1212232
-https://osu.ppy.sh/beatmapsets/1212232
-SOUND HOLIC
-The Party We Have Never Seen
-SETS END
-PACK END
-PACK START
-1976
-Beatmap Pack #912
-https://osu.ppy.sh/beatmaps/packs/1976
-28.07.2020 00:00:00
-Stefan
-SETS START
-472817
-https://osu.ppy.sh/beatmapsets/472817
-Uematsu Nobuo
-Don&#039;t be Afraid
-926278
-https://osu.ppy.sh/beatmapsets/926278
-Sanshuu Chuugaku Yuushabu
-Aurora Days (TV Size)
-1002336
-https://osu.ppy.sh/beatmapsets/1002336
-KISIDA KYODAN &amp; THE AKEBOSI ROCKETS
-Yume wa Jikuu o Koete
-1051403
-https://osu.ppy.sh/beatmapsets/1051403
-Akatsuki Records
-Bhavacakra
-1092335
-https://osu.ppy.sh/beatmapsets/1092335
-*namirin
-Sakurairo Time Capsule
-1094362
-https://osu.ppy.sh/beatmapsets/1094362
-HAG
-Rokugatsu no Himitsu Kichi
-1132711
-https://osu.ppy.sh/beatmapsets/1132711
-ZUN remixed by LeaF
-Resurrection Spell
-1148073
-https://osu.ppy.sh/beatmapsets/1148073
-ONE OK ROCK
-One by One
-1150457
-https://osu.ppy.sh/beatmapsets/1150457
-YOASOBI
-Ano Yume o Nazotte
-1167132
-https://osu.ppy.sh/beatmapsets/1167132
-Eve
-Tokyo Ghetto
-1183720
-https://osu.ppy.sh/beatmapsets/1183720
-Kanae, Kuzuha
-Not For You
-1184848
-https://osu.ppy.sh/beatmapsets/1184848
-Juanes
-La Camisa Negra
-1187129
-https://osu.ppy.sh/beatmapsets/1187129
-JUNNA
-CONTRAST
-1194330
-https://osu.ppy.sh/beatmapsets/1194330
-Masuda Junichi, Adachi Minako
-Sentou! Yuuki / Haruka
-1194331
-https://osu.ppy.sh/beatmapsets/1194331
-Falcom Sound Team jdk
-EVERLASTING TRANSEUNT
-1197699
-https://osu.ppy.sh/beatmapsets/1197699
-the peggies
-Centimeter (TV Size)
-1197928
-https://osu.ppy.sh/beatmapsets/1197928
-O2i3
-TSLove
-1205078
-https://osu.ppy.sh/beatmapsets/1205078
-MY FIRST STORY feat. chelly (EGOIST)
-1,000,000 TIMES
-1207988
-https://osu.ppy.sh/beatmapsets/1207988
-KSUKE
-Contradiction (feat. Tyler Carter) (TV Size)
-1211726
-https://osu.ppy.sh/beatmapsets/1211726
-ReoNa
-ANIMA (TV Size)
-SETS END
-PACK END
-PACK START
-1975
-Beatmap Pack #911
-https://osu.ppy.sh/beatmaps/packs/1975
-28.07.2020 00:00:00
-Stefan
-SETS START
-1020335
-https://osu.ppy.sh/beatmapsets/1020335
-highcolor_sunz
-RE-OVERDOSE
-1067141
-https://osu.ppy.sh/beatmapsets/1067141
-Reol
-Hibikase
-1114770
-https://osu.ppy.sh/beatmapsets/1114770
-MAXIMUM THE HORMONE
-ChuChu Lovely MuniMuni MuraMura PrinPrin Boron Nururu ReroRero (Chiptune Cover)
-1123299
-https://osu.ppy.sh/beatmapsets/1123299
-NEGOTO
-sharp # (TV Size)
-1136535
-https://osu.ppy.sh/beatmapsets/1136535
-DragonForce
-Midnight Madness
-1144550
-https://osu.ppy.sh/beatmapsets/1144550
-Primary
-STRUGGLES
-1145925
-https://osu.ppy.sh/beatmapsets/1145925
-Yagi Yuki, Saeki Iori, Izawa Shiori, Itou Miku, Noguchi Yuri, Mizutani Marin
-Shiny Happy Days (TV Size)
-1156937
-https://osu.ppy.sh/beatmapsets/1156937
-Kairiki bear feat. GUMI
-Manemane Psychotropic [Album Ver.]
-1169535
-https://osu.ppy.sh/beatmapsets/1169535
-Kyaru (CV: Tachibana Rika)
-Absolute Secret (ED Ver.)
-1169699
-https://osu.ppy.sh/beatmapsets/1169699
-Dua Lipa
-Physical
-1178488
-https://osu.ppy.sh/beatmapsets/1178488
-OSTER project
-Violet Rose
-1178515
-https://osu.ppy.sh/beatmapsets/1178515
-Pegboard Nerds
-Hero feat. Elizaveta (Da Tweekaz &#039;Guitar Hero&#039; Mix)
-1178549
-https://osu.ppy.sh/beatmapsets/1178549
-Yasuda Rei
-through the dark (TV Size)
-1189295
-https://osu.ppy.sh/beatmapsets/1189295
-Hayley Williams
-Airplanes (Feint Drum and Bass Remix)
-1192891
-https://osu.ppy.sh/beatmapsets/1192891
-serial TV drama
-Tougenkyou Alien (TV Size)
-1193063
-https://osu.ppy.sh/beatmapsets/1193063
-BAND-MAID
-RINNE
-1194661
-https://osu.ppy.sh/beatmapsets/1194661
-Aqours
-HAPPY PARTY TRAIN
-1207707
-https://osu.ppy.sh/beatmapsets/1207707
-ReoNa
-Scar/let
-1210565
-https://osu.ppy.sh/beatmapsets/1210565
-Yonezu Kenshi
-Flamingo
-1211739
-https://osu.ppy.sh/beatmapsets/1211739
-ReoNa
-ANIMA (TV Size)
 SETS END
 PACK END
 END
