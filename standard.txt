@@ -221,86 +221,78 @@ https://osu.ppy.sh/beatmaps/packs/2011
 13.09.2020 00:00:00
 Stefan
 SETS START
-652886
-https://osu.ppy.sh/beatmapsets/652886
-Wisp X
-Wander
-986813
-https://osu.ppy.sh/beatmapsets/986813
-Station Earth
-Cold Green Eyes feat. Roos Denayer
-1005041
-https://osu.ppy.sh/beatmapsets/1005041
-Utsu-P
-Hyper Reality Show
-1051509
-https://osu.ppy.sh/beatmapsets/1051509
-WEAVER
-Kuchizuke Diamond
-1061572
-https://osu.ppy.sh/beatmapsets/1061572
-Asaba Kanae
-Endless Starlight ~Inochi no Kirameki~ (Full ver.)
-1074754
-https://osu.ppy.sh/beatmapsets/1074754
-Popcore
-Ghost Girl
-1075671
-https://osu.ppy.sh/beatmapsets/1075671
-Sound Horizon
-Arbelge no Tatakai
-1077900
-https://osu.ppy.sh/beatmapsets/1077900
-HoneyWorks
-Yooshi, Ganbaru zoo!
-1097135
-https://osu.ppy.sh/beatmapsets/1097135
-Adagio
-Secluded Within Myself
-1100775
-https://osu.ppy.sh/beatmapsets/1100775
-Kalafina
-Manten
-1129434
-https://osu.ppy.sh/beatmapsets/1129434
-Hanayori Girls&#039; Dormitory
-Koko kara, Koko kara
-1160876
-https://osu.ppy.sh/beatmapsets/1160876
-JKuch
-Gertrude (feat. Lonemoon &amp; Samad Savage)
-1180248
-https://osu.ppy.sh/beatmapsets/1180248
-Tokino Sora &amp; Roboco-san
-Remote Control
-1194122
-https://osu.ppy.sh/beatmapsets/1194122
-Cranky
-The Five [Short Edit]
-1196675
-https://osu.ppy.sh/beatmapsets/1196675
-7!!
-Lovers (TV Size)
-1200733
-https://osu.ppy.sh/beatmapsets/1200733
-Hiwatashi Nazuna (CV: Naganawa Maria)
-Wish
-1224699
-https://osu.ppy.sh/beatmapsets/1224699
-Se-U-Ra
-Qlifact -another-
-1224831
-https://osu.ppy.sh/beatmapsets/1224831
-LamazeP
-Triple Baka
-1230419
-https://osu.ppy.sh/beatmapsets/1230419
-SHISHAMO
-Asu wa Nai
-1245769
-https://osu.ppy.sh/beatmapsets/1245769
-MISSIO
-Sing To Me
+59515
+https://osu.ppy.sh/beatmapsets/59515
+ARM feat. miko
+Hysteric Soda
+73348
+https://osu.ppy.sh/beatmapsets/73348
+MillhioreF
+Waltz o&#039; the Irish
+112917
+https://osu.ppy.sh/beatmapsets/112917
+Nanahoshi Kangengakudan
+Sayonara Lechenaultia
+284931
+https://osu.ppy.sh/beatmapsets/284931
+Porter Robinson
+Flicker
+319418
+https://osu.ppy.sh/beatmapsets/319418
+M2U &amp; NICODE
+Myosotis (feat. Guriri &amp; Lucy)
+374550
+https://osu.ppy.sh/beatmapsets/374550
+L.E.D.-G
+BITTER CHOCOLATE STRIKER
+413539
+https://osu.ppy.sh/beatmapsets/413539
+Ito Kanako
+fake me (samfree&#039;s Science Adventure Dance Remix) (Sped Up Ver.)
+446674
+https://osu.ppy.sh/beatmapsets/446674
+Amaranthe
+Hunger
+452042
+https://osu.ppy.sh/beatmapsets/452042
+Death Grips
+Lord of the Game (feat. Mexican Girl)
+499953
+https://osu.ppy.sh/beatmapsets/499953
+bill wurtz
+history of japan
+686018
+https://osu.ppy.sh/beatmapsets/686018
+ribbon room
+mint tears
+723781
+https://osu.ppy.sh/beatmapsets/723781
+Camellia
+I Can Fly In The Universe
+836053
+https://osu.ppy.sh/beatmapsets/836053
+USAO
+Dynamite (Camellia&#039;s MACHO TNT REMIX)
+849850
+https://osu.ppy.sh/beatmapsets/849850
+Joji
+SLOW DANCING IN THE DARK
+874575
+https://osu.ppy.sh/beatmapsets/874575
+Mirai Akari
+Akari ga Yattekita zo
+884669
+https://osu.ppy.sh/beatmapsets/884669
+LeaF
+Aleph-0
+914146
+https://osu.ppy.sh/beatmapsets/914146
+lapix
+Nothing but Theory
+934878
+https://osu.ppy.sh/beatmapsets/934878
+GALNERYUS
+RAISE MY SWORD
 SETS END
 PACK END
 PACK START
