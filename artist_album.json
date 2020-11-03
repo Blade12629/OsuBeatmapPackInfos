@@ -2,6 +2,210 @@
   {
     "BeatmapSets": [
       {
+        "Id": 29290,
+        "Url": "https://osu.ppy.sh/beatmapsets/29290",
+        "Artist": "Celldweller",
+        "Title": "Switchback"
+      },
+      {
+        "Id": 170148,
+        "Url": "https://osu.ppy.sh/beatmapsets/170148",
+        "Artist": "Celldweller",
+        "Title": "I Can&#039;t Wait"
+      },
+      {
+        "Id": 272785,
+        "Url": "https://osu.ppy.sh/beatmapsets/272785",
+        "Artist": "Celldweller",
+        "Title": "Pulsar"
+      },
+      {
+        "Id": 353368,
+        "Url": "https://osu.ppy.sh/beatmapsets/353368",
+        "Artist": "Celldweller",
+        "Title": "Senorita Bonita"
+      },
+      {
+        "Id": 404844,
+        "Url": "https://osu.ppy.sh/beatmapsets/404844",
+        "Artist": "Celldweller",
+        "Title": "End of an Empire"
+      },
+      {
+        "Id": 1069112,
+        "Url": "https://osu.ppy.sh/beatmapsets/1069112",
+        "Artist": "Celldweller",
+        "Title": "Good L_ck (Yo_&#039;re F_cked)"
+      },
+      {
+        "Id": 1079727,
+        "Url": "https://osu.ppy.sh/beatmapsets/1079727",
+        "Artist": "Celldweller",
+        "Title": "The Best It&#039;s Gonna Get"
+      }
+    ],
+    "Id": 2040,
+    "Name": "Celldweller Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/2040",
+    "CreationDate": "2020-11-03T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 96103,
+        "Url": "https://osu.ppy.sh/beatmapsets/96103",
+        "Artist": "LeaF",
+        "Title": "Calamity Fortune"
+      },
+      {
+        "Id": 99244,
+        "Url": "https://osu.ppy.sh/beatmapsets/99244",
+        "Artist": "LeaF",
+        "Title": "I"
+      },
+      {
+        "Id": 106212,
+        "Url": "https://osu.ppy.sh/beatmapsets/106212",
+        "Artist": "LeaF",
+        "Title": "MEPHISTO"
+      },
+      {
+        "Id": 336099,
+        "Url": "https://osu.ppy.sh/beatmapsets/336099",
+        "Artist": "LeaF",
+        "Title": "Wizdomiot"
+      },
+      {
+        "Id": 440997,
+        "Url": "https://osu.ppy.sh/beatmapsets/440997",
+        "Artist": "LeaF",
+        "Title": "Evanescent"
+      },
+      {
+        "Id": 782989,
+        "Url": "https://osu.ppy.sh/beatmapsets/782989",
+        "Artist": "LeaF",
+        "Title": "Alice in Misanthrope -Ensei Alice-"
+      },
+      {
+        "Id": 1097600,
+        "Url": "https://osu.ppy.sh/beatmapsets/1097600",
+        "Artist": "LeaF",
+        "Title": "Mopemope"
+      },
+      {
+        "Id": 1130436,
+        "Url": "https://osu.ppy.sh/beatmapsets/1130436",
+        "Artist": "LeaF",
+        "Title": "Poison AND/OR Affection"
+      },
+      {
+        "Id": 1136149,
+        "Url": "https://osu.ppy.sh/beatmapsets/1136149",
+        "Artist": "LeaF",
+        "Title": "MARENOL"
+      },
+      {
+        "Id": 1156514,
+        "Url": "https://osu.ppy.sh/beatmapsets/1156514",
+        "Artist": "LeaF",
+        "Title": "Arianrhod"
+      }
+    ],
+    "Id": 2039,
+    "Name": "LeaF Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/2039",
+    "CreationDate": "2020-11-03T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 980331,
+        "Url": "https://osu.ppy.sh/beatmapsets/980331",
+        "Artist": "Sound Souler",
+        "Title": "Gloom After Death"
+      },
+      {
+        "Id": 1085144,
+        "Url": "https://osu.ppy.sh/beatmapsets/1085144",
+        "Artist": "Sound Souler",
+        "Title": "Aqua Stars"
+      },
+      {
+        "Id": 1093465,
+        "Url": "https://osu.ppy.sh/beatmapsets/1093465",
+        "Artist": "Sound Souler",
+        "Title": "Absent Color"
+      },
+      {
+        "Id": 1139959,
+        "Url": "https://osu.ppy.sh/beatmapsets/1139959",
+        "Artist": "Sound Souler",
+        "Title": "Funky Life"
+      },
+      {
+        "Id": 1152177,
+        "Url": "https://osu.ppy.sh/beatmapsets/1152177",
+        "Artist": "Sound Souler",
+        "Title": "Bubble Flower"
+      },
+      {
+        "Id": 1153032,
+        "Url": "https://osu.ppy.sh/beatmapsets/1153032",
+        "Artist": "Sound Souler",
+        "Title": "Blackorient"
+      }
+    ],
+    "Id": 2038,
+    "Name": "Sound Souler Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/2038",
+    "CreationDate": "2020-11-03T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
+        "Id": 1171007,
+        "Url": "https://osu.ppy.sh/beatmapsets/1171007",
+        "Artist": "Hyper Potions",
+        "Title": "Jungle Cruise"
+      },
+      {
+        "Id": 1175718,
+        "Url": "https://osu.ppy.sh/beatmapsets/1175718",
+        "Artist": "Hyper Potions, Synthion &amp; MYLK",
+        "Title": "Maboroshi"
+      },
+      {
+        "Id": 1191546,
+        "Url": "https://osu.ppy.sh/beatmapsets/1191546",
+        "Artist": "Hyper Potions",
+        "Title": "Snow Day"
+      },
+      {
+        "Id": 1191714,
+        "Url": "https://osu.ppy.sh/beatmapsets/1191714",
+        "Artist": "Hyper Potions &amp; SAMME",
+        "Title": "Puppy Raceway"
+      },
+      {
+        "Id": 1191951,
+        "Url": "https://osu.ppy.sh/beatmapsets/1191951",
+        "Artist": "Hyper Potions &amp; Skye Rocket",
+        "Title": "Shooting Star"
+      }
+    ],
+    "Id": 2037,
+    "Name": "Hyper Potions Pack",
+    "Url": "https://osu.ppy.sh/beatmaps/packs/2037",
+    "CreationDate": "2020-11-03T00:00:00",
+    "Author": "the Mappers&#039; Guild"
+  },
+  {
+    "BeatmapSets": [
+      {
         "Id": 58951,
         "Url": "https://osu.ppy.sh/beatmapsets/58951",
         "Artist": "UNDEAD CORPORATION",
@@ -994,275 +1198,5 @@
     "Url": "https://osu.ppy.sh/beatmaps/packs/1561",
     "CreationDate": "2019-01-15T00:00:00",
     "Author": "Nathanael"
-  },
-  {
-    "BeatmapSets": [
-      {
-        "Id": 847776,
-        "Url": "https://osu.ppy.sh/beatmapsets/847776",
-        "Artist": "Culprate &amp; Joe Ford",
-        "Title": "Gaucho"
-      },
-      {
-        "Id": 847996,
-        "Url": "https://osu.ppy.sh/beatmapsets/847996",
-        "Artist": "Culprate",
-        "Title": "Relucent feat. ZES"
-      },
-      {
-        "Id": 848003,
-        "Url": "https://osu.ppy.sh/beatmapsets/848003",
-        "Artist": "Culprate",
-        "Title": "Aurora"
-      },
-      {
-        "Id": 848259,
-        "Url": "https://osu.ppy.sh/beatmapsets/848259",
-        "Artist": "Culprate &amp; Skorpion",
-        "Title": "Jester"
-      },
-      {
-        "Id": 848837,
-        "Url": "https://osu.ppy.sh/beatmapsets/848837",
-        "Artist": "Culprate",
-        "Title": "Whispers (Part II)"
-      },
-      {
-        "Id": 851543,
-        "Url": "https://osu.ppy.sh/beatmapsets/851543",
-        "Artist": "Culprate",
-        "Title": "Florn"
-      }
-    ],
-    "Id": 1535,
-    "Name": "Culprate Pack",
-    "Url": "https://osu.ppy.sh/beatmaps/packs/1535",
-    "CreationDate": "2018-11-20T00:00:00",
-    "Author": "the Mappers&#039; Guild"
-  },
-  {
-    "BeatmapSets": [
-      {
-        "Id": 789374,
-        "Url": "https://osu.ppy.sh/beatmapsets/789374",
-        "Artist": "Pulse",
-        "Title": "LP"
-      },
-      {
-        "Id": 789528,
-        "Url": "https://osu.ppy.sh/beatmapsets/789528",
-        "Artist": "James Portland",
-        "Title": "Sky"
-      },
-      {
-        "Id": 789529,
-        "Url": "https://osu.ppy.sh/beatmapsets/789529",
-        "Artist": "Lexurus",
-        "Title": "Gravity"
-      },
-      {
-        "Id": 789544,
-        "Url": "https://osu.ppy.sh/beatmapsets/789544",
-        "Artist": "Andromedik",
-        "Title": "Invasion"
-      },
-      {
-        "Id": 789905,
-        "Url": "https://osu.ppy.sh/beatmapsets/789905",
-        "Artist": "Gourski x Himmes",
-        "Title": "Silence"
-      },
-      {
-        "Id": 795432,
-        "Url": "https://osu.ppy.sh/beatmapsets/795432",
-        "Artist": "Phonetic",
-        "Title": "Journey"
-      }
-    ],
-    "Id": 1480,
-    "Name": "High Tea Music Pack",
-    "Url": "https://osu.ppy.sh/beatmaps/packs/1480",
-    "CreationDate": "2019-10-23T00:00:00",
-    "Author": "the Mappers&#039; Guild"
-  },
-  {
-    "BeatmapSets": [
-      {
-        "Id": 292077,
-        "Url": "https://osu.ppy.sh/beatmapsets/292077",
-        "Artist": "Reol",
-        "Title": "Asymmetry"
-      },
-      {
-        "Id": 295225,
-        "Url": "https://osu.ppy.sh/beatmapsets/295225",
-        "Artist": "Reol",
-        "Title": "Plus Danshi ver Reol"
-      },
-      {
-        "Id": 320118,
-        "Url": "https://osu.ppy.sh/beatmapsets/320118",
-        "Artist": "Reol",
-        "Title": "No title"
-      },
-      {
-        "Id": 339335,
-        "Url": "https://osu.ppy.sh/beatmapsets/339335",
-        "Artist": "Reol",
-        "Title": "Streaming Heart"
-      },
-      {
-        "Id": 357544,
-        "Url": "https://osu.ppy.sh/beatmapsets/357544",
-        "Artist": "Reol &amp; nqrse",
-        "Title": "Ooedo Ranvu"
-      },
-      {
-        "Id": 374055,
-        "Url": "https://osu.ppy.sh/beatmapsets/374055",
-        "Artist": "Reol",
-        "Title": "Echo"
-      },
-      {
-        "Id": 388428,
-        "Url": "https://osu.ppy.sh/beatmapsets/388428",
-        "Artist": "Reol",
-        "Title": "Midnight Stroller"
-      },
-      {
-        "Id": 409397,
-        "Url": "https://osu.ppy.sh/beatmapsets/409397",
-        "Artist": "Reol",
-        "Title": "FLASH BACK"
-      },
-      {
-        "Id": 476697,
-        "Url": "https://osu.ppy.sh/beatmapsets/476697",
-        "Artist": "REOL",
-        "Title": "ChiruChiru"
-      },
-      {
-        "Id": 497483,
-        "Url": "https://osu.ppy.sh/beatmapsets/497483",
-        "Artist": "REOL",
-        "Title": "Give me a break Stop now"
-      },
-      {
-        "Id": 522666,
-        "Url": "https://osu.ppy.sh/beatmapsets/522666",
-        "Artist": "REOL",
-        "Title": "Summer Horror Party"
-      },
-      {
-        "Id": 552854,
-        "Url": "https://osu.ppy.sh/beatmapsets/552854",
-        "Artist": "REOL",
-        "Title": "YoiYoi Kokon"
-      },
-      {
-        "Id": 578814,
-        "Url": "https://osu.ppy.sh/beatmapsets/578814",
-        "Artist": "Reol",
-        "Title": "Logic Agent"
-      },
-      {
-        "Id": 661483,
-        "Url": "https://osu.ppy.sh/beatmapsets/661483",
-        "Artist": "Reol",
-        "Title": "MONSTER"
-      },
-      {
-        "Id": 706150,
-        "Url": "https://osu.ppy.sh/beatmapsets/706150",
-        "Artist": "REOL",
-        "Title": "Endless Line"
-      }
-    ],
-    "Id": 1443,
-    "Name": "Reol Pack",
-    "Url": "https://osu.ppy.sh/beatmaps/packs/1443",
-    "CreationDate": "2018-06-02T00:00:00",
-    "Author": "Nathanael"
-  },
-  {
-    "BeatmapSets": [
-      {
-        "Id": 11219,
-        "Url": "https://osu.ppy.sh/beatmapsets/11219",
-        "Artist": "Cranky",
-        "Title": "EVERGREEN"
-      },
-      {
-        "Id": 18339,
-        "Url": "https://osu.ppy.sh/beatmapsets/18339",
-        "Artist": "Cranky",
-        "Title": "The Five"
-      },
-      {
-        "Id": 31367,
-        "Url": "https://osu.ppy.sh/beatmapsets/31367",
-        "Artist": "cranky",
-        "Title": "R176"
-      },
-      {
-        "Id": 150649,
-        "Url": "https://osu.ppy.sh/beatmapsets/150649",
-        "Artist": "cranky",
-        "Title": "X-Y-Z"
-      },
-      {
-        "Id": 751771,
-        "Url": "https://osu.ppy.sh/beatmapsets/751771",
-        "Artist": "Cranky",
-        "Title": "Hanaarashi"
-      },
-      {
-        "Id": 751772,
-        "Url": "https://osu.ppy.sh/beatmapsets/751772",
-        "Artist": "Cranky",
-        "Title": "Ran"
-      },
-      {
-        "Id": 751773,
-        "Url": "https://osu.ppy.sh/beatmapsets/751773",
-        "Artist": "Cranky",
-        "Title": "Feline, the White..."
-      },
-      {
-        "Id": 751785,
-        "Url": "https://osu.ppy.sh/beatmapsets/751785",
-        "Artist": "Cranky",
-        "Title": "Chandelier - King"
-      },
-      {
-        "Id": 751896,
-        "Url": "https://osu.ppy.sh/beatmapsets/751896",
-        "Artist": "Cranky",
-        "Title": "Rave 2 Rave"
-      },
-      {
-        "Id": 751932,
-        "Url": "https://osu.ppy.sh/beatmapsets/751932",
-        "Artist": "Cranky",
-        "Title": "La fuite des jours"
-      },
-      {
-        "Id": 751972,
-        "Url": "https://osu.ppy.sh/beatmapsets/751972",
-        "Artist": "Cranky",
-        "Title": "CHASER"
-      },
-      {
-        "Id": 752022,
-        "Url": "https://osu.ppy.sh/beatmapsets/752022",
-        "Artist": "Cranky",
-        "Title": "T&amp;J"
-      }
-    ],
-    "Id": 1437,
-    "Name": "Cranky Pack",
-    "Url": "https://osu.ppy.sh/beatmaps/packs/1437",
-    "CreationDate": "2018-05-25T00:00:00",
-    "Author": "the Mappers&#039; Guild"
   }
 ]

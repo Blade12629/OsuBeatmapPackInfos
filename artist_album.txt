@@ -1,5 +1,153 @@
 START
 PACK START
+2040
+Celldweller Pack
+https://osu.ppy.sh/beatmaps/packs/2040
+03.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+29290
+https://osu.ppy.sh/beatmapsets/29290
+Celldweller
+Switchback
+170148
+https://osu.ppy.sh/beatmapsets/170148
+Celldweller
+I Can&#039;t Wait
+272785
+https://osu.ppy.sh/beatmapsets/272785
+Celldweller
+Pulsar
+353368
+https://osu.ppy.sh/beatmapsets/353368
+Celldweller
+Senorita Bonita
+404844
+https://osu.ppy.sh/beatmapsets/404844
+Celldweller
+End of an Empire
+1069112
+https://osu.ppy.sh/beatmapsets/1069112
+Celldweller
+Good L_ck (Yo_&#039;re F_cked)
+1079727
+https://osu.ppy.sh/beatmapsets/1079727
+Celldweller
+The Best It&#039;s Gonna Get
+SETS END
+PACK END
+PACK START
+2039
+LeaF Pack
+https://osu.ppy.sh/beatmaps/packs/2039
+03.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+96103
+https://osu.ppy.sh/beatmapsets/96103
+LeaF
+Calamity Fortune
+99244
+https://osu.ppy.sh/beatmapsets/99244
+LeaF
+I
+106212
+https://osu.ppy.sh/beatmapsets/106212
+LeaF
+MEPHISTO
+336099
+https://osu.ppy.sh/beatmapsets/336099
+LeaF
+Wizdomiot
+440997
+https://osu.ppy.sh/beatmapsets/440997
+LeaF
+Evanescent
+782989
+https://osu.ppy.sh/beatmapsets/782989
+LeaF
+Alice in Misanthrope -Ensei Alice-
+1097600
+https://osu.ppy.sh/beatmapsets/1097600
+LeaF
+Mopemope
+1130436
+https://osu.ppy.sh/beatmapsets/1130436
+LeaF
+Poison AND/OR Affection
+1136149
+https://osu.ppy.sh/beatmapsets/1136149
+LeaF
+MARENOL
+1156514
+https://osu.ppy.sh/beatmapsets/1156514
+LeaF
+Arianrhod
+SETS END
+PACK END
+PACK START
+2038
+Sound Souler Pack
+https://osu.ppy.sh/beatmaps/packs/2038
+03.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+980331
+https://osu.ppy.sh/beatmapsets/980331
+Sound Souler
+Gloom After Death
+1085144
+https://osu.ppy.sh/beatmapsets/1085144
+Sound Souler
+Aqua Stars
+1093465
+https://osu.ppy.sh/beatmapsets/1093465
+Sound Souler
+Absent Color
+1139959
+https://osu.ppy.sh/beatmapsets/1139959
+Sound Souler
+Funky Life
+1152177
+https://osu.ppy.sh/beatmapsets/1152177
+Sound Souler
+Bubble Flower
+1153032
+https://osu.ppy.sh/beatmapsets/1153032
+Sound Souler
+Blackorient
+SETS END
+PACK END
+PACK START
+2037
+Hyper Potions Pack
+https://osu.ppy.sh/beatmaps/packs/2037
+03.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+1171007
+https://osu.ppy.sh/beatmapsets/1171007
+Hyper Potions
+Jungle Cruise
+1175718
+https://osu.ppy.sh/beatmapsets/1175718
+Hyper Potions, Synthion &amp; MYLK
+Maboroshi
+1191546
+https://osu.ppy.sh/beatmapsets/1191546
+Hyper Potions
+Snow Day
+1191714
+https://osu.ppy.sh/beatmapsets/1191714
+Hyper Potions &amp; SAMME
+Puppy Raceway
+1191951
+https://osu.ppy.sh/beatmapsets/1191951
+Hyper Potions &amp; Skye Rocket
+Shooting Star
+SETS END
+PACK END
+PACK START
 1810
 UNDEAD CORPORATION Pack
 https://osu.ppy.sh/beatmaps/packs/1810
@@ -709,198 +857,6 @@ KIZUNA MUSIC (TV Size)
 https://osu.ppy.sh/beatmapsets/899955
 Roselia
 BRAVE JEWEL (TV Size)
-SETS END
-PACK END
-PACK START
-1535
-Culprate Pack
-https://osu.ppy.sh/beatmaps/packs/1535
-20.11.2018 00:00:00
-the Mappers&#039; Guild
-SETS START
-847776
-https://osu.ppy.sh/beatmapsets/847776
-Culprate &amp; Joe Ford
-Gaucho
-847996
-https://osu.ppy.sh/beatmapsets/847996
-Culprate
-Relucent feat. ZES
-848003
-https://osu.ppy.sh/beatmapsets/848003
-Culprate
-Aurora
-848259
-https://osu.ppy.sh/beatmapsets/848259
-Culprate &amp; Skorpion
-Jester
-848837
-https://osu.ppy.sh/beatmapsets/848837
-Culprate
-Whispers (Part II)
-851543
-https://osu.ppy.sh/beatmapsets/851543
-Culprate
-Florn
-SETS END
-PACK END
-PACK START
-1480
-High Tea Music Pack
-https://osu.ppy.sh/beatmaps/packs/1480
-23.10.2019 00:00:00
-the Mappers&#039; Guild
-SETS START
-789374
-https://osu.ppy.sh/beatmapsets/789374
-Pulse
-LP
-789528
-https://osu.ppy.sh/beatmapsets/789528
-James Portland
-Sky
-789529
-https://osu.ppy.sh/beatmapsets/789529
-Lexurus
-Gravity
-789544
-https://osu.ppy.sh/beatmapsets/789544
-Andromedik
-Invasion
-789905
-https://osu.ppy.sh/beatmapsets/789905
-Gourski x Himmes
-Silence
-795432
-https://osu.ppy.sh/beatmapsets/795432
-Phonetic
-Journey
-SETS END
-PACK END
-PACK START
-1443
-Reol Pack
-https://osu.ppy.sh/beatmaps/packs/1443
-02.06.2018 00:00:00
-Nathanael
-SETS START
-292077
-https://osu.ppy.sh/beatmapsets/292077
-Reol
-Asymmetry
-295225
-https://osu.ppy.sh/beatmapsets/295225
-Reol
-Plus Danshi ver Reol
-320118
-https://osu.ppy.sh/beatmapsets/320118
-Reol
-No title
-339335
-https://osu.ppy.sh/beatmapsets/339335
-Reol
-Streaming Heart
-357544
-https://osu.ppy.sh/beatmapsets/357544
-Reol &amp; nqrse
-Ooedo Ranvu
-374055
-https://osu.ppy.sh/beatmapsets/374055
-Reol
-Echo
-388428
-https://osu.ppy.sh/beatmapsets/388428
-Reol
-Midnight Stroller
-409397
-https://osu.ppy.sh/beatmapsets/409397
-Reol
-FLASH BACK
-476697
-https://osu.ppy.sh/beatmapsets/476697
-REOL
-ChiruChiru
-497483
-https://osu.ppy.sh/beatmapsets/497483
-REOL
-Give me a break Stop now
-522666
-https://osu.ppy.sh/beatmapsets/522666
-REOL
-Summer Horror Party
-552854
-https://osu.ppy.sh/beatmapsets/552854
-REOL
-YoiYoi Kokon
-578814
-https://osu.ppy.sh/beatmapsets/578814
-Reol
-Logic Agent
-661483
-https://osu.ppy.sh/beatmapsets/661483
-Reol
-MONSTER
-706150
-https://osu.ppy.sh/beatmapsets/706150
-REOL
-Endless Line
-SETS END
-PACK END
-PACK START
-1437
-Cranky Pack
-https://osu.ppy.sh/beatmaps/packs/1437
-25.05.2018 00:00:00
-the Mappers&#039; Guild
-SETS START
-11219
-https://osu.ppy.sh/beatmapsets/11219
-Cranky
-EVERGREEN
-18339
-https://osu.ppy.sh/beatmapsets/18339
-Cranky
-The Five
-31367
-https://osu.ppy.sh/beatmapsets/31367
-cranky
-R176
-150649
-https://osu.ppy.sh/beatmapsets/150649
-cranky
-X-Y-Z
-751771
-https://osu.ppy.sh/beatmapsets/751771
-Cranky
-Hanaarashi
-751772
-https://osu.ppy.sh/beatmapsets/751772
-Cranky
-Ran
-751773
-https://osu.ppy.sh/beatmapsets/751773
-Cranky
-Feline, the White...
-751785
-https://osu.ppy.sh/beatmapsets/751785
-Cranky
-Chandelier - King
-751896
-https://osu.ppy.sh/beatmapsets/751896
-Cranky
-Rave 2 Rave
-751932
-https://osu.ppy.sh/beatmapsets/751932
-Cranky
-La fuite des jours
-751972
-https://osu.ppy.sh/beatmapsets/751972
-Cranky
-CHASER
-752022
-https://osu.ppy.sh/beatmapsets/752022
-Cranky
-T&amp;J
 SETS END
 PACK END
 END
