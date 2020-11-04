@@ -1,5 +1,484 @@
 START
 PACK START
+2053
+Camellia Challenges Pack
+https://osu.ppy.sh/beatmaps/packs/2053
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+286414
+https://osu.ppy.sh/beatmapsets/286414
+Camellia
+dreamless wanderer
+320058
+https://osu.ppy.sh/beatmapsets/320058
+Camellia
+Controlled dive
+346853
+https://osu.ppy.sh/beatmapsets/346853
+Camellia
+PLANET//SHAPER
+347556
+https://osu.ppy.sh/beatmapsets/347556
+Camellia
+flying in the flow of deep-sea
+376075
+https://osu.ppy.sh/beatmapsets/376075
+Camellia
+dreamless wanderer
+384263
+https://osu.ppy.sh/beatmapsets/384263
+Camellia
+LET&#039;S JUMP
+514601
+https://osu.ppy.sh/beatmapsets/514601
+Camellia
+Light it up
+517474
+https://osu.ppy.sh/beatmapsets/517474
+Camellia
+Exit This Earth&#039;s Atomosphere
+584991
+https://osu.ppy.sh/beatmapsets/584991
+Camellia
+Quantum Entanglement
+623927
+https://osu.ppy.sh/beatmapsets/623927
+Camellia
+Feelin Sky (Camellia&#039;s &quot;200step&quot; Self-remix)
+636839
+https://osu.ppy.sh/beatmapsets/636839
+KASAI HARCORES
+Cycle Hit
+715913
+https://osu.ppy.sh/beatmapsets/715913
+Camellia
+Bassline Yatteru? w
+885923
+https://osu.ppy.sh/beatmapsets/885923
+Camellia
+The King Of Lions
+SETS END
+PACK END
+PACK START
+2051
+Camellia Sets Pack
+https://osu.ppy.sh/beatmaps/packs/2051
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+331025
+https://osu.ppy.sh/beatmapsets/331025
+Camellia
+Fastest Crash
+347765
+https://osu.ppy.sh/beatmapsets/347765
+Camellia
+Racemization
+383147
+https://osu.ppy.sh/beatmapsets/383147
+Camellia feat. Nanahira
+Tsukitourou
+399151
+https://osu.ppy.sh/beatmapsets/399151
+Camellia
+crystallized
+632972
+https://osu.ppy.sh/beatmapsets/632972
+Camellia
+put&#039; l&#039;da
+700968
+https://osu.ppy.sh/beatmapsets/700968
+Camellia
+Introduction - ENTRANS OF DA JUNGLE
+720294
+https://osu.ppy.sh/beatmapsets/720294
+Camellia feat. Nanahira
+Kansoku Eisei
+888513
+https://osu.ppy.sh/beatmapsets/888513
+Camellia
+First Town Of This Journey
+945476
+https://osu.ppy.sh/beatmapsets/945476
+Camellia
+Kimi ga Shinu no o Nagamete Iru yo
+1081920
+https://osu.ppy.sh/beatmapsets/1081920
+Camellia
+introduction - INSANE INFLAME
+1083336
+https://osu.ppy.sh/beatmapsets/1083336
+Camellia feat. Nanahira
+Animal Land
+SETS END
+PACK END
+PACK START
+2049
+Cranky Pack 2
+https://osu.ppy.sh/beatmaps/packs/2049
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+8923
+https://osu.ppy.sh/beatmapsets/8923
+Cranky
+Luvin&#039; You
+757813
+https://osu.ppy.sh/beatmapsets/757813
+Cranky
+Libera me
+847764
+https://osu.ppy.sh/beatmapsets/847764
+Cranky
+Crocus
+847812
+https://osu.ppy.sh/beatmapsets/847812
+J. Pachelbel
+Canon (Cranky Remix)
+847900
+https://osu.ppy.sh/beatmapsets/847900
+Cranky
+Time Alter
+936126
+https://osu.ppy.sh/beatmapsets/936126
+siromaru + cranky
+conflict
+978694
+https://osu.ppy.sh/beatmapsets/978694
+Cranky
+Amanojaku
+1194122
+https://osu.ppy.sh/beatmapsets/1194122
+Cranky
+The Five [Short Edit]
+SETS END
+PACK END
+PACK START
+2048
+PUP Pack
+https://osu.ppy.sh/beatmaps/packs/2048
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+756815
+https://osu.ppy.sh/beatmapsets/756815
+PUP
+DVP
+762836
+https://osu.ppy.sh/beatmapsets/762836
+PUP
+Mabu
+1133317
+https://osu.ppy.sh/beatmapsets/1133317
+PUP
+Free At Last
+1141879
+https://osu.ppy.sh/beatmapsets/1141879
+PUP
+Sleep In The Heat
+1171055
+https://osu.ppy.sh/beatmapsets/1171055
+PUP
+Factories
+1171188
+https://osu.ppy.sh/beatmapsets/1171188
+PUP
+Full Blown Meltdown
+1173552
+https://osu.ppy.sh/beatmapsets/1173552
+PUP
+Old Wounds
+1175467
+https://osu.ppy.sh/beatmapsets/1175467
+PUP
+Closure
+1177043
+https://osu.ppy.sh/beatmapsets/1177043
+PUP
+My Life Is Over And I Couldn&#039;t Be Happier
+SETS END
+PACK END
+PACK START
+2047
+ELFENSJóN Pack
+https://osu.ppy.sh/beatmaps/packs/2047
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+1083468
+https://osu.ppy.sh/beatmapsets/1083468
+ELFENSJoN
+Shiroki Yume wa Madara ni
+1100484
+https://osu.ppy.sh/beatmapsets/1100484
+ELFENSJoN
+Akayake no Majo
+1112035
+https://osu.ppy.sh/beatmapsets/1112035
+ELFENSJoN
+Hyousou wa Hakuen o Matoite
+1112439
+https://osu.ppy.sh/beatmapsets/1112439
+ELFENSJoN
+Akayake no Majo
+1112621
+https://osu.ppy.sh/beatmapsets/1112621
+ELFENSJoN
+Hexenjagd
+1113775
+https://osu.ppy.sh/beatmapsets/1113775
+ELFENSJoN
+PHANTOM
+1115791
+https://osu.ppy.sh/beatmapsets/1115791
+ELFENSJoN
+Shinen o Yomu mono
+1122898
+https://osu.ppy.sh/beatmapsets/1122898
+ELFENSJoN
+Hoshikuzu no Rinne
+1131083
+https://osu.ppy.sh/beatmapsets/1131083
+ELFENSJoN
+Hotarubi
+1169877
+https://osu.ppy.sh/beatmapsets/1169877
+ELFENSJoN
+ORPHEUS
+1179300
+https://osu.ppy.sh/beatmapsets/1179300
+ELFENSJoN
+Yasou
+SETS END
+PACK END
+PACK START
+2046
+Ricky Montgomery Pack
+https://osu.ppy.sh/beatmaps/packs/2046
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+1062211
+https://osu.ppy.sh/beatmapsets/1062211
+Ricky Montgomery
+Get Used To It
+1062477
+https://osu.ppy.sh/beatmapsets/1062477
+Ricky Montgomery
+Line Without a Hook
+1065610
+https://osu.ppy.sh/beatmapsets/1065610
+Ricky Montgomery
+Snow
+1081806
+https://osu.ppy.sh/beatmapsets/1081806
+Ricky Montgomery
+Cabo
+1085943
+https://osu.ppy.sh/beatmapsets/1085943
+Ricky Montgomery
+California
+1173192
+https://osu.ppy.sh/beatmapsets/1173192
+Ricky Montgomery
+This December
+SETS END
+PACK END
+PACK START
+2045
+S3RL Pack
+https://osu.ppy.sh/beatmaps/packs/2045
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+28145
+https://osu.ppy.sh/beatmapsets/28145
+DJ S3RL
+Little Kandi Raver
+40440
+https://osu.ppy.sh/beatmapsets/40440
+S3RL
+Pika Girl
+67105
+https://osu.ppy.sh/beatmapsets/67105
+DJ S3RL feat. Tamika
+Rainbow Girl
+235093
+https://osu.ppy.sh/beatmapsets/235093
+S3RL feat Tamika
+I Will Pick You Up
+345450
+https://osu.ppy.sh/beatmapsets/345450
+S3RL feat Sara
+Techno Kitty
+375648
+https://osu.ppy.sh/beatmapsets/375648
+S3RL
+Bass Slut (Original Mix)
+481451
+https://osu.ppy.sh/beatmapsets/481451
+S3RL feat Krystal
+R4V3 B0Y
+651692
+https://osu.ppy.sh/beatmapsets/651692
+S3RL feat Tamika
+Tell Me What You Want
+716630
+https://osu.ppy.sh/beatmapsets/716630
+S3RL
+MTC (Radio Edit)
+785572
+https://osu.ppy.sh/beatmapsets/785572
+S3RL
+I&#039;ll See You Again (feat. Chi Chi)
+785731
+https://osu.ppy.sh/beatmapsets/785731
+S3RL
+Catchit (Radio Edit)
+829956
+https://osu.ppy.sh/beatmapsets/829956
+S3RL
+Candy (feat. Sara)
+SETS END
+PACK END
+PACK START
+2044
+Kola Kid Pack
+https://osu.ppy.sh/beatmaps/packs/2044
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+673494
+https://osu.ppy.sh/beatmapsets/673494
+Kola Kid
+the Earth is counting on you
+1089084
+https://osu.ppy.sh/beatmapsets/1089084
+Kola Kid
+timer
+1099325
+https://osu.ppy.sh/beatmapsets/1099325
+Kola Kid
+can&#039;t hide your love
+1107725
+https://osu.ppy.sh/beatmapsets/1107725
+Kola Kid
+press start
+1160961
+https://osu.ppy.sh/beatmapsets/1160961
+Kola Kid
+broken legs
+1259096
+https://osu.ppy.sh/beatmapsets/1259096
+Kola Kid
+sea shells
+SETS END
+PACK END
+PACK START
+2043
+Panda Eyes Pack
+https://osu.ppy.sh/beatmaps/packs/2043
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+504958
+https://osu.ppy.sh/beatmapsets/504958
+Panda Eyes
+On My Own
+653534
+https://osu.ppy.sh/beatmapsets/653534
+Panda Eyes
+ILY
+703957
+https://osu.ppy.sh/beatmapsets/703957
+Panda Eyes &amp; Teminite
+Immortal Flame (feat. Anna Yvette)
+747818
+https://osu.ppy.sh/beatmapsets/747818
+Panda Eyes
+Euphoria
+1066507
+https://osu.ppy.sh/beatmapsets/1066507
+Panda Eyes
+Crystal Cave
+1090677
+https://osu.ppy.sh/beatmapsets/1090677
+Panda Eyes
+Pump It Up
+SETS END
+PACK END
+PACK START
+2042
+Teminite Pack
+https://osu.ppy.sh/beatmaps/packs/2042
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+332532
+https://osu.ppy.sh/beatmapsets/332532
+Panda Eyes &amp; Teminite
+Highscore
+526626
+https://osu.ppy.sh/beatmapsets/526626
+Teminite
+Earthquake
+813742
+https://osu.ppy.sh/beatmapsets/813742
+Teminite
+State Of Mind
+1089017
+https://osu.ppy.sh/beatmapsets/1089017
+Teminite
+Step Into The Light (feat. Jonah Hitchens)
+1094838
+https://osu.ppy.sh/beatmapsets/1094838
+Teminite
+Ascent
+1095934
+https://osu.ppy.sh/beatmapsets/1095934
+Teminite &amp; PsoGnar
+Senses Overload
+1122012
+https://osu.ppy.sh/beatmapsets/1122012
+Teminite feat. Jonah Hitchens
+Everytime I Look into the Sky
+SETS END
+PACK END
+PACK START
+2041
+VINXIS Pack
+https://osu.ppy.sh/beatmaps/packs/2041
+04.11.2020 00:00:00
+the Mappers&#039; Guild
+SETS START
+288974
+https://osu.ppy.sh/beatmapsets/288974
+VINXIS
+Greetings
+501719
+https://osu.ppy.sh/beatmapsets/501719
+VINXIS
+Applause
+771159
+https://osu.ppy.sh/beatmapsets/771159
+VINXIS
+Sidetracked Day (Short Ver.)
+780372
+https://osu.ppy.sh/beatmapsets/780372
+VINXIS
+Left Behind
+780932
+https://osu.ppy.sh/beatmapsets/780932
+VINXIS
+A Centralized View
+1001625
+https://osu.ppy.sh/beatmapsets/1001625
+VINXIS
+Facade
+SETS END
+PACK END
+PACK START
 2040
 Celldweller Pack
 https://osu.ppy.sh/beatmaps/packs/2040
@@ -358,505 +837,6 @@ Melon Soda
 https://osu.ppy.sh/beatmapsets/1040161
 Wisp X
 Hibiscus
-SETS END
-PACK END
-PACK START
-1805
-Carpool Tunnel Pack (osu!, osu!catch)
-https://osu.ppy.sh/beatmaps/packs/1805
-16.01.2020 00:00:00
-the Mappers&#039; Guild
-SETS START
-1001546
-https://osu.ppy.sh/beatmapsets/1001546
-Carpool Tunnel
-Afterlight
-1033405
-https://osu.ppy.sh/beatmapsets/1033405
-Carpool Tunnel
-San Francisco
-1036382
-https://osu.ppy.sh/beatmapsets/1036382
-Carpool Tunnel
-Parade
-1036890
-https://osu.ppy.sh/beatmapsets/1036890
-Carpool Tunnel
-Afterlight
-1050185
-https://osu.ppy.sh/beatmapsets/1050185
-Carpool Tunnel
-Hooked Again
-1050477
-https://osu.ppy.sh/beatmapsets/1050477
-Carpool Tunnel
-Better Now
-1052846
-https://osu.ppy.sh/beatmapsets/1052846
-Carpool Tunnel
-Impressions
-1058934
-https://osu.ppy.sh/beatmapsets/1058934
-Carpool Tunnel
-Parade
-SETS END
-PACK END
-PACK START
-1804
-onumi Pack (osu!, osu!catch)
-https://osu.ppy.sh/beatmaps/packs/1804
-16.01.2020 00:00:00
-the Mappers&#039; Guild
-SETS START
-933700
-https://osu.ppy.sh/beatmapsets/933700
-onumi
-CONFUSION PART ONE
-933984
-https://osu.ppy.sh/beatmapsets/933984
-onumi
-PERSONALITY
-934785
-https://osu.ppy.sh/beatmapsets/934785
-onumi
-FAKE
-936545
-https://osu.ppy.sh/beatmapsets/936545
-onumi
-REGRET PART ONE
-940377
-https://osu.ppy.sh/beatmapsets/940377
-onumi
-ARROGANCE
-952393
-https://osu.ppy.sh/beatmapsets/952393
-onumi
-NOSTALGIA
-1037665
-https://osu.ppy.sh/beatmapsets/1037665
-onumi
-CONFUSION PART ONE
-1043754
-https://osu.ppy.sh/beatmapsets/1043754
-onumi
-DESIRE
-SETS END
-PACK END
-PACK START
-1762
-The Flashbulb Pack (osu!, osu!taiko, osu!catch)
-https://osu.ppy.sh/beatmaps/packs/1762
-26.11.2019 00:00:00
-the Mappers&#039; Guild
-SETS START
-964553
-https://osu.ppy.sh/beatmapsets/964553
-The Flashbulb
-You Take the World&#039;s Weight Away
-965178
-https://osu.ppy.sh/beatmapsets/965178
-The Flashbulb
-DIDJ PVC
-965730
-https://osu.ppy.sh/beatmapsets/965730
-The Flashbulb
-Lawn Wake IV (Black)
-966078
-https://osu.ppy.sh/beatmapsets/966078
-The Flashbulb
-DIDJ PVC
-966087
-https://osu.ppy.sh/beatmapsets/966087
-The Flashbulb
-Creep
-966225
-https://osu.ppy.sh/beatmapsets/966225
-The Flashbulb
-Passage D
-966277
-https://osu.ppy.sh/beatmapsets/966277
-The Flashbulb
-Amen Iraq
-966451
-https://osu.ppy.sh/beatmapsets/966451
-The Flashbulb
-Six Acid Strings
-973171
-https://osu.ppy.sh/beatmapsets/973171
-The Flashbulb
-It Never Ends
-977276
-https://osu.ppy.sh/beatmapsets/977276
-The Flashbulb
-Mellann
-984361
-https://osu.ppy.sh/beatmapsets/984361
-The Flashbulb
-Ninedump
-SETS END
-PACK END
-PACK START
-1759
-Rin Pack
-https://osu.ppy.sh/beatmaps/packs/1759
-20.11.2019 00:00:00
-the Mappers&#039; Guild
-SETS START
-974872
-https://osu.ppy.sh/beatmapsets/974872
-Rin
-Amanojaku set 02 ~ Midnight Spell Card
-985478
-https://osu.ppy.sh/beatmapsets/985478
-Rin
-Chireiden set 05 ~ Walking the Streets of a Former Hell
-985780
-https://osu.ppy.sh/beatmapsets/985780
-Rin
-Muenzuka set 06 ~ Eastern Judgement in the Sixtieth Year
-991960
-https://osu.ppy.sh/beatmapsets/991960
-Rin
-Koumakan set 02 ~ Apparitions Stalk the Night
-993507
-https://osu.ppy.sh/beatmapsets/993507
-Rin
-Eientewi set 06 ~ Plain Asia
-996256
-https://osu.ppy.sh/beatmapsets/996256
-Rin
-Lunatic set 16 ~ The Space Shrine Maiden Returns Home
-1001360
-https://osu.ppy.sh/beatmapsets/1001360
-Rin
-Ayakashi set 12 Another ~ Border of Life
-1006601
-https://osu.ppy.sh/beatmapsets/1006601
-Rin
-Koumakan set 16 ~ Kourou
-1013620
-https://osu.ppy.sh/beatmapsets/1013620
-Rin
-Mythic set ~ Hanahazama no Battlefield
-1014593
-https://osu.ppy.sh/beatmapsets/1014593
-Rin
-Eientewi set 15 ~ Evening Primrose
-1019506
-https://osu.ppy.sh/beatmapsets/1019506
-Rin
-Kishinjou set 10 ~ Reverse Ideology
-1022069
-https://osu.ppy.sh/beatmapsets/1022069
-Rin
-Eientewi set 14 ~ Another
-1022358
-https://osu.ppy.sh/beatmapsets/1022358
-Rin
-Amanojaku set 03 ~ Romantic Escape Flight
-SETS END
-PACK END
-PACK START
-1758
-LukHash Pack (osu!catch)
-https://osu.ppy.sh/beatmaps/packs/1758
-20.11.2019 00:00:00
-the Mappers&#039; Guild
-SETS START
-1008600
-https://osu.ppy.sh/beatmapsets/1008600
-LukHash
-WHEN AN ANGEL DIES
-1031580
-https://osu.ppy.sh/beatmapsets/1031580
-LukHash
-DIGITAL HEART
-1031588
-https://osu.ppy.sh/beatmapsets/1031588
-LukHash
-WTF?
-1031668
-https://osu.ppy.sh/beatmapsets/1031668
-LukHash
-WINTER ERROR
-1032103
-https://osu.ppy.sh/beatmapsets/1032103
-LukHash
-H8 U
-1040733
-https://osu.ppy.sh/beatmapsets/1040733
-LukHash
-SOCIAL PHOBIA
-1042550
-https://osu.ppy.sh/beatmapsets/1042550
-LukHash
-Ghosts
-1045131
-https://osu.ppy.sh/beatmapsets/1045131
-LukHash
-8BIT FAIRY TALE
-SETS END
-PACK END
-PACK START
-1704
-*namirin Pack
-https://osu.ppy.sh/beatmaps/packs/1704
-19.11.2019 00:00:00
-the Mappers&#039; Guild
-SETS START
-609569
-https://osu.ppy.sh/beatmapsets/609569
-*namirin
-Hitokoto no Kyori
-670579
-https://osu.ppy.sh/beatmapsets/670579
-*namirin
-closing eyes
-901091
-https://osu.ppy.sh/beatmapsets/901091
-*namirin
-Ciel etoile
-902745
-https://osu.ppy.sh/beatmapsets/902745
-*namirin
-Iscariot no Sakebi
-906565
-https://osu.ppy.sh/beatmapsets/906565
-*namirin
-Omajinai
-916990
-https://osu.ppy.sh/beatmapsets/916990
-*namirin
-Koishiteiku Planet
-954272
-https://osu.ppy.sh/beatmapsets/954272
-*namirin
-Kanzen Shouri*Esper Girl
-971432
-https://osu.ppy.sh/beatmapsets/971432
-*namirin
-Irodori Sora
-981616
-https://osu.ppy.sh/beatmapsets/981616
-*namirin
-Mizutamari Tobikoete (with Nanahira)
-SETS END
-PACK END
-PACK START
-1688
-Imperial Circus Dead Decadence Pack
-https://osu.ppy.sh/beatmaps/packs/1688
-08.07.2019 00:00:00
-the Mappers&#039; Guild
-SETS START
-482382
-https://osu.ppy.sh/beatmapsets/482382
-Imperial Circus Dead Decadence
-Shinbatsu o Tadori Kyoukotsu ni Itaru
-742961
-https://osu.ppy.sh/beatmapsets/742961
-Imperial Circus Dead Decadence
-Yomi yori Kikoyu, Koukoku no Tou to Honoo no Shoujo.
-961431
-https://osu.ppy.sh/beatmapsets/961431
-Imperial Circus Dead Decadence
-Danzai No Honoo To Koibito-Tachi No Rondo
-962562
-https://osu.ppy.sh/beatmapsets/962562
-Imperial Circus Dead Decadence
-Uta
-964134
-https://osu.ppy.sh/beatmapsets/964134
-Imperial Circus Dead Decadence
-Tinu rareta Syuren Ni Fukeru Homura
-964680
-https://osu.ppy.sh/beatmapsets/964680
-Imperial Circus Dead Decadence
-Syakunetsu No Rengoku Ni Bara Wa...
-967766
-https://osu.ppy.sh/beatmapsets/967766
-Imperial Circus Dead Decadence
-Ankoku no Jyoukaku ni Shinkou Saru Igyou no Kyouki
-SETS END
-PACK END
-PACK START
-1687
-Ben Briggs Pack
-https://osu.ppy.sh/beatmaps/packs/1687
-08.07.2019 00:00:00
-the Mappers&#039; Guild
-SETS START
-933940
-https://osu.ppy.sh/beatmapsets/933940
-Ben Briggs
-Yes (Maybe)
-934415
-https://osu.ppy.sh/beatmapsets/934415
-Ben Briggs
-Fearless Living
-934627
-https://osu.ppy.sh/beatmapsets/934627
-Ben Briggs
-New Game Plus
-934666
-https://osu.ppy.sh/beatmapsets/934666
-Ben Briggs
-Wave Island
-948165
-https://osu.ppy.sh/beatmapsets/948165
-Ben Briggs
-Methods
-948868
-https://osu.ppy.sh/beatmapsets/948868
-Ben Briggs
-Selecting Continue
-952380
-https://osu.ppy.sh/beatmapsets/952380
-Ben Briggs
-Why Are We Yelling
-SETS END
-PACK END
-PACK START
-1649
-tieff Pack
-https://osu.ppy.sh/beatmaps/packs/1649
-08.05.2019 00:00:00
-the Mappers&#039; Guild
-SETS START
-929284
-https://osu.ppy.sh/beatmapsets/929284
-tieff
-Sense of Nostalgia
-938370
-https://osu.ppy.sh/beatmapsets/938370
-tieff
-Waterflow
-940597
-https://osu.ppy.sh/beatmapsets/940597
-tieff
-Take Your Swimsuit
-941085
-https://osu.ppy.sh/beatmapsets/941085
-tieff
-Our Story
-949297
-https://osu.ppy.sh/beatmapsets/949297
-tieff
-Sunflower
-958299
-https://osu.ppy.sh/beatmapsets/958299
-tieff
-By Holding You Close I&#039;m Pushing You Further
-SETS END
-PACK END
-PACK START
-1581
-HyuN Pack
-https://osu.ppy.sh/beatmaps/packs/1581
-04.02.2019 00:00:00
-the Mappers&#039; Guild
-SETS START
-891333
-https://osu.ppy.sh/beatmapsets/891333
-HyuN
-White Aura
-891334
-https://osu.ppy.sh/beatmapsets/891334
-HyuN
-Wild Card
-891335
-https://osu.ppy.sh/beatmapsets/891335
-HyuN feat. JeeE
-Fallen Angel
-891337
-https://osu.ppy.sh/beatmapsets/891337
-HyuN feat. LyuU
-Cross Over
-891338
-https://osu.ppy.sh/beatmapsets/891338
-HyuN &amp; Ritoru
-Apocalypse in Love
-891339
-https://osu.ppy.sh/beatmapsets/891339
-HyuN feat. Ato
-Asu wa Ame ga Yamukara
-891345
-https://osu.ppy.sh/beatmapsets/891345
-HyuN
-Infinity Heaven
-891348
-https://osu.ppy.sh/beatmapsets/891348
-HyuN
-Guitian
-891356
-https://osu.ppy.sh/beatmapsets/891356
-HyuN
-Legend of Genesis
-891366
-https://osu.ppy.sh/beatmapsets/891366
-HyuN
-Illusion of Inflict
-891417
-https://osu.ppy.sh/beatmapsets/891417
-HyuN feat. Yu-A
-My life is for you
-891441
-https://osu.ppy.sh/beatmapsets/891441
-HyuN
-You&#039;Re aRleAdY dEAd
-891632
-https://osu.ppy.sh/beatmapsets/891632
-HyuN feat. YURI
-Disorder
-SETS END
-PACK END
-PACK START
-1561
-BanG Dream! Pack, Volume 2
-https://osu.ppy.sh/beatmaps/packs/1561
-15.01.2019 00:00:00
-Nathanael
-SETS START
-653523
-https://osu.ppy.sh/beatmapsets/653523
-Poppin&#039;Party
-Natsu no Don!
-762466
-https://osu.ppy.sh/beatmapsets/762466
-Hello, Happy World!
-Silhouette
-765565
-https://osu.ppy.sh/beatmapsets/765565
-Poppin&#039;Party
-Senbonzakura
-781033
-https://osu.ppy.sh/beatmapsets/781033
-Poppin&#039;Party
-Melancholic
-785222
-https://osu.ppy.sh/beatmapsets/785222
-Pastel*Palettes
-Shuwarin*Drea~ming
-790041
-https://osu.ppy.sh/beatmapsets/790041
-Roselia
-Six Trillion Years and Overnight Story
-792819
-https://osu.ppy.sh/beatmapsets/792819
-Afterglow
-READY STEADY GO (game size ver.)
-809023
-https://osu.ppy.sh/beatmapsets/809023
-Aimi, Sakura Ayane, Maeshima Ami, Aiba Aina, Itou Miku
-Picotto! Papitto!! GARUPA*PICO!!! (TV Size)
-899954
-https://osu.ppy.sh/beatmapsets/899954
-Poppin&#039;Party
-KIZUNA MUSIC (TV Size)
-899955
-https://osu.ppy.sh/beatmapsets/899955
-Roselia
-BRAVE JEWEL (TV Size)
 SETS END
 PACK END
 END
